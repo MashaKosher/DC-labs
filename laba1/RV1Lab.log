@@ -1,0 +1,502 @@
+2025-02-14T14:34:13.659854+0000 INFO GET creator
+2025-02-14T14:34:13.671466+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.678446+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.684377+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.689852+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:34:13.694998+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.700157+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.705391+0000 INFO GET creator
+2025-02-14T14:34:13.710646+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.717004+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.723358+0000 INFO PUT creator with body: {'login': 'updatedCreator7891', 'password': 'updatedAsdfghj1789', 'firstname': 'updatedFirstname2364', 'lastname': 'updatedLastname2282', 'id': 0}
+2025-02-14T14:34:13.728378+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.735775+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.741158+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.746539+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.751407+0000 INFO POST creator with body: {'login': 'creator1235', 'password': 'asdfghj1262', 'firstname': 'firstname7952', 'lastname': 'lastname4590'}
+2025-02-14T14:34:13.756624+0000 INFO PUT creator with body: {'login': 'x', 'password': 'updatedAsdfghj1789', 'firstname': 'updatedFirstname2364', 'lastname': 'updatedLastname2282', 'id': 0}
+2025-02-14T14:34:13.762271+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.768213+0000 INFO GET story
+2025-02-14T14:34:13.774005+0000 INFO POST creator with body: {'login': 'creator1130', 'password': 'asdfghj6842', 'firstname': 'firstname9884', 'lastname': 'lastname2362'}
+2025-02-14T14:34:13.780649+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.787468+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.793580+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.800506+0000 INFO GET story by id 0
+2025-02-14T14:34:13.807889+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.814207+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.820211+0000 INFO GET story
+2025-02-14T14:34:13.825613+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.830559+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.836765+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle5738', 'content': 'updatedContent3408', 'id': 0}
+2025-02-14T14:34:13.841766+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.847705+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.852999+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.858282+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.863298+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2790', 'content': 'content635'}
+2025-02-14T14:34:13.868656+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'x', 'content': 'updatedContent3408', 'id': 0}
+2025-02-14T14:34:13.874084+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.884858+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:13.890344+0000 INFO GET message
+2025-02-14T14:34:13.895959+0000 INFO POST creator with body: {'login': 'creator1138', 'password': 'asdfghj4267', 'firstname': 'firstname4841', 'lastname': 'lastname6127'}
+2025-02-14T14:34:13.900776+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3824', 'content': 'content2619'}
+2025-02-14T14:34:13.906232+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2619'}
+2025-02-14T14:34:13.911208+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:13.916367+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2619'}
+2025-02-14T14:34:13.922005+0000 INFO GET message by id: 0
+2025-02-14T14:34:13.927452+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:13.996191+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2619'}
+2025-02-14T14:34:14.002416+0000 INFO GET message
+2025-02-14T14:34:14.008011+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:14.013218+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2619'}
+2025-02-14T14:34:14.018914+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent6769', 'id': 0}
+2025-02-14T14:34:14.024134+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:14.029410+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2619'}
+2025-02-14T14:34:14.034580+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:14.040477+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:14.046460+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:14.051601+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:14.057550+0000 INFO GET sticker
+2025-02-14T14:34:14.062878+0000 INFO POST creator with body: {'login': 'creator6979', 'password': 'asdfghj8978', 'firstname': 'firstname7919', 'lastname': 'lastname9485'}
+2025-02-14T14:34:14.067548+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title7077', 'content': 'content6948'}
+2025-02-14T14:34:14.072763+0000 INFO POST sticker with body: {'name': 'name1026'}
+2025-02-14T14:34:14.079300+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.084420+0000 INFO POST sticker with body: {'name': 'name1026'}
+2025-02-14T14:34:14.091126+0000 INFO GET sticker by id: 0
+2025-02-14T14:34:14.096542+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.101423+0000 INFO POST sticker with body: {'name': 'name1026'}
+2025-02-14T14:34:14.106452+0000 INFO GET sticker
+2025-02-14T14:34:14.111651+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.117134+0000 INFO POST sticker with body: {'name': 'name1026'}
+2025-02-14T14:34:14.122996+0000 INFO PUT sticker with body: {'name': 'updatedname9824', 'id': 0}
+2025-02-14T14:34:14.128412+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.133352+0000 INFO POST sticker with body: {'name': 'name1026'}
+2025-02-14T14:34:14.138685+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.143916+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:14.149326+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:14.154322+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:31.454951+0000 INFO POST creator with body: {'login': 'creator6150', 'password': 'asdfghj5120', 'firstname': 'firstname4196', 'lastname': 'lastname1354'}
+2025-02-14T14:34:31.460583+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:34:31.525745+0000 INFO GET creator
+2025-02-14T14:34:31.531918+0000 INFO PUT creator with body: {'login': 'updatedCreator1536', 'password': 'updatedAsdfghj2229', 'firstname': 'updatedFirstname1931', 'lastname': 'updatedLastname9102', 'id': 0}
+2025-02-14T14:34:31.573439+0000 INFO GET creator
+2025-02-14T14:34:31.579482+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:31.624638+0000 INFO POST creator with body: {'login': 'x', 'password': 'asdfghj5120', 'firstname': 'firstname4196', 'lastname': 'lastname1354'}
+2025-02-14T14:34:31.629465+0000 INFO POST creator with body: {'login': 'login-is-very-very-very-very-very-long---length-equals-65-symbols', 'password': 'asdfghj5120', 'firstname': 'firstname4196', 'lastname': 'lastname1354'}
+2025-02-14T14:34:31.634334+0000 INFO POST creator with body: {'login': 'creator6150', 'password': 'z234567', 'firstname': 'firstnameValue200', 'lastname': 'lastnameValue3093'}
+2025-02-14T14:34:31.639125+0000 INFO POST creator with body: {'login': 'creator6150', 'password': 'asdfghj5120', 'firstname': 'x', 'lastname': 'x'}
+2025-02-14T14:34:31.644030+0000 INFO POST creator with body: {'login': 'creator6150', 'password': 'asdfghj5120', 'firstname': 'firstname4196', 'lastname': 'lastname1354'}
+2025-02-14T14:34:31.685474+0000 INFO POST creator with body: {'login': 'creator6150', 'password': 'qwertyu3350', 'firstname': 'v2firstname5763', 'lastname': 'v2lastname5102'}
+2025-02-14T14:34:31.690444+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:31.743403+0000 INFO GET story
+2025-02-14T14:34:31.748802+0000 INFO POST creator with body: {'login': 'creator2435', 'password': 'asdfghj9791', 'firstname': 'firstname8260', 'lastname': 'lastname7383'}
+2025-02-14T14:34:31.917047+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8021', 'content': 'content4418'}
+2025-02-14T14:34:31.922310+0000 INFO GET story by id 0
+2025-02-14T14:34:31.963635+0000 INFO GET story
+2025-02-14T14:34:31.968488+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle5439', 'content': 'updatedContent8547', 'id': 0}
+2025-02-14T14:34:31.973141+0000 INFO GET story by id 0
+2025-02-14T14:34:32.016149+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:32.059606+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'long-long-long-long-long-long-long-long-long-long-long-long---end', 'content': 'content4418'}
+2025-02-14T14:34:32.065773+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'x', 'content': 'content4418'}
+2025-02-14T14:34:32.074230+0000 INFO POST creator with body: {'creatorId': 1230789, 'title': 'title8021', 'content': 'content4418'}
+2025-02-14T14:34:32.079268+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8021', 'content': 'content4418'}
+2025-02-14T14:34:32.123535+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8021', 'content': 'other-content6659'}
+2025-02-14T14:34:32.128255+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:32.208437+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:32.255498+0000 INFO GET message
+2025-02-14T14:34:32.260702+0000 INFO POST creator with body: {'login': 'creator4615', 'password': 'asdfghj2876', 'firstname': 'firstname3773', 'lastname': 'lastname1730'}
+2025-02-14T14:34:32.313540+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title9108', 'content': 'content7489'}
+2025-02-14T14:34:32.356473+0000 INFO POST message with body: {'storyId': 0, 'content': 'content7489'}
+2025-02-14T14:34:32.362037+0000 INFO GET message by id: 0
+2025-02-14T14:34:32.366923+0000 INFO GET message
+2025-02-14T14:34:32.371638+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent4534', 'id': 0}
+2025-02-14T14:34:32.376643+0000 INFO GET message by id: 0
+2025-02-14T14:34:32.381613+0000 INFO DELETE message with ID: 0
+2025-02-14T14:34:32.386431+0000 INFO POST message with body: {'storyId': 0, 'content': 'x'}
+2025-02-14T14:34:32.391143+0000 INFO POST message with body: {'storyId': 1230789, 'content': 'content7489'}
+2025-02-14T14:34:32.432729+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:32.512779+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:32.559719+0000 INFO GET sticker
+2025-02-14T14:34:32.564825+0000 INFO POST creator with body: {'login': 'creator6649', 'password': 'asdfghj1283', 'firstname': 'firstname986', 'lastname': 'lastname6462'}
+2025-02-14T14:34:32.569587+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title9900', 'content': 'content6130'}
+2025-02-14T14:34:32.613046+0000 INFO POST sticker with body: {'name': 'name3883'}
+2025-02-14T14:34:32.618742+0000 INFO GET sticker by id: 0
+2025-02-14T14:34:32.763413+0000 INFO GET sticker
+2025-02-14T14:34:32.768139+0000 INFO PUT sticker with body: {'name': 'updatedname3026', 'id': 0}
+2025-02-14T14:34:32.773083+0000 INFO GET sticker by id: 0
+2025-02-14T14:34:32.922216+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:32.964494+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:34:32.969544+0000 INFO POST sticker with body: {'name': 'x'}
+2025-02-14T14:34:32.974238+0000 INFO POST sticker with body: {'name': 'long-long-long-long-long-long-123'}
+2025-02-14T14:34:33.016606+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:34:33.094361+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:29.789986+0000 INFO POST creator with body: {'login': 'creator1655', 'password': 'asdfghj4725', 'firstname': 'firstname6730', 'lastname': 'lastname2684'}
+2025-02-14T14:35:29.797336+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:35:29.848727+0000 INFO GET creator
+2025-02-14T14:35:29.853971+0000 INFO PUT creator with body: {'login': 'updatedCreator5515', 'password': 'updatedAsdfghj7049', 'firstname': 'updatedFirstname3460', 'lastname': 'updatedLastname8919', 'id': 0}
+2025-02-14T14:35:29.895374+0000 INFO GET creator
+2025-02-14T14:35:29.900986+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:29.941872+0000 INFO POST creator with body: {'login': 'x', 'password': 'asdfghj4725', 'firstname': 'firstname6730', 'lastname': 'lastname2684'}
+2025-02-14T14:35:29.947073+0000 INFO POST creator with body: {'login': 'login-is-very-very-very-very-very-long---length-equals-65-symbols', 'password': 'asdfghj4725', 'firstname': 'firstname6730', 'lastname': 'lastname2684'}
+2025-02-14T14:35:29.951562+0000 INFO POST creator with body: {'login': 'creator1655', 'password': 'z234567', 'firstname': 'firstnameValue7269', 'lastname': 'lastnameValue8103'}
+2025-02-14T14:35:29.956260+0000 INFO POST creator with body: {'login': 'creator1655', 'password': 'asdfghj4725', 'firstname': 'x', 'lastname': 'x'}
+2025-02-14T14:35:29.961080+0000 INFO POST creator with body: {'login': 'creator1655', 'password': 'asdfghj4725', 'firstname': 'firstname6730', 'lastname': 'lastname2684'}
+2025-02-14T14:35:30.002266+0000 INFO POST creator with body: {'login': 'creator1655', 'password': 'qwertyu4519', 'firstname': 'v2firstname7292', 'lastname': 'v2lastname9275'}
+2025-02-14T14:35:30.007053+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.049879+0000 INFO GET story
+2025-02-14T14:35:30.055509+0000 INFO POST creator with body: {'login': 'creator1161', 'password': 'asdfghj9940', 'firstname': 'firstname1897', 'lastname': 'lastname7087'}
+2025-02-14T14:35:30.097138+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2454', 'content': 'content2039'}
+2025-02-14T14:35:30.102824+0000 INFO GET story by id 0
+2025-02-14T14:35:30.277982+0000 INFO GET story
+2025-02-14T14:35:30.282823+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle7253', 'content': 'updatedContent5307', 'id': 0}
+2025-02-14T14:35:30.287577+0000 INFO GET story by id 0
+2025-02-14T14:35:30.330450+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.373706+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'long-long-long-long-long-long-long-long-long-long-long-long---end', 'content': 'content2039'}
+2025-02-14T14:35:30.379018+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'x', 'content': 'content2039'}
+2025-02-14T14:35:30.387567+0000 INFO POST creator with body: {'creatorId': 1230789, 'title': 'title2454', 'content': 'content2039'}
+2025-02-14T14:35:30.392747+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2454', 'content': 'content2039'}
+2025-02-14T14:35:30.435900+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2454', 'content': 'other-content9798'}
+2025-02-14T14:35:30.441566+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.521272+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.564577+0000 INFO GET message
+2025-02-14T14:35:30.570222+0000 INFO POST creator with body: {'login': 'creator5910', 'password': 'asdfghj7680', 'firstname': 'firstname842', 'lastname': 'lastname6097'}
+2025-02-14T14:35:30.613517+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title5620', 'content': 'content9444'}
+2025-02-14T14:35:30.656710+0000 INFO POST message with body: {'storyId': 0, 'content': 'content9444'}
+2025-02-14T14:35:30.662191+0000 INFO GET message by id: 0
+2025-02-14T14:35:30.667222+0000 INFO GET message
+2025-02-14T14:35:30.672578+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent3892', 'id': 0}
+2025-02-14T14:35:30.677249+0000 INFO GET message by id: 0
+2025-02-14T14:35:30.682557+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:30.687653+0000 INFO POST message with body: {'storyId': 0, 'content': 'x'}
+2025-02-14T14:35:30.693024+0000 INFO POST message with body: {'storyId': 1230789, 'content': 'content9444'}
+2025-02-14T14:35:30.737785+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.815857+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:30.858711+0000 INFO GET sticker
+2025-02-14T14:35:30.864313+0000 INFO POST creator with body: {'login': 'creator5303', 'password': 'asdfghj4840', 'firstname': 'firstname6737', 'lastname': 'lastname7722'}
+2025-02-14T14:35:30.869542+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title5256', 'content': 'content7062'}
+2025-02-14T14:35:30.911526+0000 INFO POST sticker with body: {'name': 'name7919'}
+2025-02-14T14:35:30.917237+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:30.960848+0000 INFO GET sticker
+2025-02-14T14:35:30.965654+0000 INFO PUT sticker with body: {'name': 'updatedname2846', 'id': 0}
+2025-02-14T14:35:30.970537+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:31.011750+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:31.053737+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:31.058820+0000 INFO POST sticker with body: {'name': 'x'}
+2025-02-14T14:35:31.063673+0000 INFO POST sticker with body: {'name': 'long-long-long-long-long-long-123'}
+2025-02-14T14:35:31.110469+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:31.294115+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.009146+0000 INFO GET creator
+2025-02-14T14:35:33.016942+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.022287+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.027884+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.033026+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:35:33.038631+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.043865+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.048929+0000 INFO GET creator
+2025-02-14T14:35:33.054080+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.058925+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.063844+0000 INFO PUT creator with body: {'login': 'updatedCreator7939', 'password': 'updatedAsdfghj3187', 'firstname': 'updatedFirstname8941', 'lastname': 'updatedLastname2447', 'id': 0}
+2025-02-14T14:35:33.069253+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.074206+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.079494+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.084709+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.089663+0000 INFO POST creator with body: {'login': 'creator3704', 'password': 'asdfghj6020', 'firstname': 'firstname6686', 'lastname': 'lastname7670'}
+2025-02-14T14:35:33.094267+0000 INFO PUT creator with body: {'login': 'x', 'password': 'updatedAsdfghj3187', 'firstname': 'updatedFirstname8941', 'lastname': 'updatedLastname2447', 'id': 0}
+2025-02-14T14:35:33.099164+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.104681+0000 INFO GET story
+2025-02-14T14:35:33.109791+0000 INFO POST creator with body: {'login': 'creator198', 'password': 'asdfghj2170', 'firstname': 'firstname5488', 'lastname': 'lastname3335'}
+2025-02-14T14:35:33.115275+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.120519+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.126829+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.132352+0000 INFO GET story by id 0
+2025-02-14T14:35:33.137447+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.142174+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.147419+0000 INFO GET story
+2025-02-14T14:35:33.152682+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.157477+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.162331+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle1134', 'content': 'updatedContent9062', 'id': 0}
+2025-02-14T14:35:33.167586+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.172929+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.178383+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.183467+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.189619+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3192', 'content': 'content3604'}
+2025-02-14T14:35:33.194501+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'x', 'content': 'updatedContent9062', 'id': 0}
+2025-02-14T14:35:33.200312+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.205618+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.211319+0000 INFO GET message
+2025-02-14T14:35:33.217363+0000 INFO POST creator with body: {'login': 'creator2835', 'password': 'asdfghj7912', 'firstname': 'firstname3519', 'lastname': 'lastname6928'}
+2025-02-14T14:35:33.222140+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title268', 'content': 'content284'}
+2025-02-14T14:35:33.227163+0000 INFO POST message with body: {'storyId': 0, 'content': 'content284'}
+2025-02-14T14:35:33.232076+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.241362+0000 INFO POST message with body: {'storyId': 0, 'content': 'content284'}
+2025-02-14T14:35:33.246587+0000 INFO GET message by id: 0
+2025-02-14T14:35:33.252596+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.257732+0000 INFO POST message with body: {'storyId': 0, 'content': 'content284'}
+2025-02-14T14:35:33.262772+0000 INFO GET message
+2025-02-14T14:35:33.268227+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.273912+0000 INFO POST message with body: {'storyId': 0, 'content': 'content284'}
+2025-02-14T14:35:33.279072+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent4999', 'id': 0}
+2025-02-14T14:35:33.284009+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.289091+0000 INFO POST message with body: {'storyId': 0, 'content': 'content284'}
+2025-02-14T14:35:33.294114+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.366281+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:33.372020+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.377111+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.382713+0000 INFO GET sticker
+2025-02-14T14:35:33.388311+0000 INFO POST creator with body: {'login': 'creator8427', 'password': 'asdfghj9197', 'firstname': 'firstname4675', 'lastname': 'lastname4015'}
+2025-02-14T14:35:33.393952+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8158', 'content': 'content590'}
+2025-02-14T14:35:33.399045+0000 INFO POST sticker with body: {'name': 'name1170'}
+2025-02-14T14:35:33.404748+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.410283+0000 INFO POST sticker with body: {'name': 'name1170'}
+2025-02-14T14:35:33.417046+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:33.422435+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.427855+0000 INFO POST sticker with body: {'name': 'name1170'}
+2025-02-14T14:35:33.433595+0000 INFO GET sticker
+2025-02-14T14:35:33.438689+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.444095+0000 INFO POST sticker with body: {'name': 'name1170'}
+2025-02-14T14:35:33.449071+0000 INFO PUT sticker with body: {'name': 'updatedname6206', 'id': 0}
+2025-02-14T14:35:33.453965+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.459059+0000 INFO POST sticker with body: {'name': 'name1170'}
+2025-02-14T14:35:33.464555+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.470066+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:33.475020+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:33.480032+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.221775+0000 INFO POST creator with body: {'login': 'creator6689', 'password': 'asdfghj5256', 'firstname': 'firstname153', 'lastname': 'lastname6528'}
+2025-02-14T14:35:40.227269+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:35:40.276859+0000 INFO GET creator
+2025-02-14T14:35:40.281640+0000 INFO PUT creator with body: {'login': 'updatedCreator2720', 'password': 'updatedAsdfghj4414', 'firstname': 'updatedFirstname1288', 'lastname': 'updatedLastname2630', 'id': 0}
+2025-02-14T14:35:40.322221+0000 INFO GET creator
+2025-02-14T14:35:40.327738+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.368819+0000 INFO POST creator with body: {'login': 'x', 'password': 'asdfghj5256', 'firstname': 'firstname153', 'lastname': 'lastname6528'}
+2025-02-14T14:35:40.374183+0000 INFO POST creator with body: {'login': 'login-is-very-very-very-very-very-long---length-equals-65-symbols', 'password': 'asdfghj5256', 'firstname': 'firstname153', 'lastname': 'lastname6528'}
+2025-02-14T14:35:40.378948+0000 INFO POST creator with body: {'login': 'creator6689', 'password': 'z234567', 'firstname': 'firstnameValue9449', 'lastname': 'lastnameValue3345'}
+2025-02-14T14:35:40.383892+0000 INFO POST creator with body: {'login': 'creator6689', 'password': 'asdfghj5256', 'firstname': 'x', 'lastname': 'x'}
+2025-02-14T14:35:40.389047+0000 INFO POST creator with body: {'login': 'creator6689', 'password': 'asdfghj5256', 'firstname': 'firstname153', 'lastname': 'lastname6528'}
+2025-02-14T14:35:40.430490+0000 INFO POST creator with body: {'login': 'creator6689', 'password': 'qwertyu1641', 'firstname': 'v2firstname6348', 'lastname': 'v2lastname9127'}
+2025-02-14T14:35:40.435280+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.477775+0000 INFO GET story
+2025-02-14T14:35:40.483165+0000 INFO POST creator with body: {'login': 'creator1793', 'password': 'asdfghj3786', 'firstname': 'firstname9484', 'lastname': 'lastname2980'}
+2025-02-14T14:35:40.526272+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4827', 'content': 'content522'}
+2025-02-14T14:35:40.531811+0000 INFO GET story by id 0
+2025-02-14T14:35:40.573404+0000 INFO GET story
+2025-02-14T14:35:40.578231+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle4003', 'content': 'updatedContent5409', 'id': 0}
+2025-02-14T14:35:40.583321+0000 INFO GET story by id 0
+2025-02-14T14:35:40.624584+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.665636+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'long-long-long-long-long-long-long-long-long-long-long-long---end', 'content': 'content522'}
+2025-02-14T14:35:40.671694+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'x', 'content': 'content522'}
+2025-02-14T14:35:40.680524+0000 INFO POST creator with body: {'creatorId': 1230789, 'title': 'title4827', 'content': 'content522'}
+2025-02-14T14:35:40.685669+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4827', 'content': 'content522'}
+2025-02-14T14:35:40.728333+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4827', 'content': 'other-content716'}
+2025-02-14T14:35:40.733475+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.812549+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:40.854971+0000 INFO GET message
+2025-02-14T14:35:40.860937+0000 INFO POST creator with body: {'login': 'creator4780', 'password': 'asdfghj4752', 'firstname': 'firstname8071', 'lastname': 'lastname2289'}
+2025-02-14T14:35:40.902624+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4117', 'content': 'content2433'}
+2025-02-14T14:35:40.943524+0000 INFO POST message with body: {'storyId': 0, 'content': 'content2433'}
+2025-02-14T14:35:40.948918+0000 INFO GET message by id: 0
+2025-02-14T14:35:40.954050+0000 INFO GET message
+2025-02-14T14:35:40.958874+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent8664', 'id': 0}
+2025-02-14T14:35:40.963688+0000 INFO GET message by id: 0
+2025-02-14T14:35:40.989018+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:40.994291+0000 INFO POST message with body: {'storyId': 0, 'content': 'x'}
+2025-02-14T14:35:40.999651+0000 INFO POST message with body: {'storyId': 1230789, 'content': 'content2433'}
+2025-02-14T14:35:41.041798+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:41.117961+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:41.160534+0000 INFO GET sticker
+2025-02-14T14:35:41.165826+0000 INFO POST creator with body: {'login': 'creator8759', 'password': 'asdfghj7483', 'firstname': 'firstname7606', 'lastname': 'lastname6861'}
+2025-02-14T14:35:41.170573+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title7955', 'content': 'content2890'}
+2025-02-14T14:35:41.213266+0000 INFO POST sticker with body: {'name': 'name6321'}
+2025-02-14T14:35:41.218557+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:41.260650+0000 INFO GET sticker
+2025-02-14T14:35:41.265503+0000 INFO PUT sticker with body: {'name': 'updatedname1165', 'id': 0}
+2025-02-14T14:35:41.271076+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:41.312145+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:41.352895+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:41.357815+0000 INFO POST sticker with body: {'name': 'x'}
+2025-02-14T14:35:41.362609+0000 INFO POST sticker with body: {'name': 'long-long-long-long-long-long-123'}
+2025-02-14T14:35:41.404432+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:43.313271+0000 INFO POST creator with body: {'login': 'creator3111', 'password': 'asdfghj2204', 'firstname': 'firstname3409', 'lastname': 'lastname7906'}
+2025-02-14T14:35:43.319005+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:35:43.365325+0000 INFO GET creator
+2025-02-14T14:35:43.370816+0000 INFO PUT creator with body: {'login': 'updatedCreator995', 'password': 'updatedAsdfghj1264', 'firstname': 'updatedFirstname9345', 'lastname': 'updatedLastname907', 'id': 0}
+2025-02-14T14:35:43.413157+0000 INFO GET creator
+2025-02-14T14:35:43.419189+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:43.461636+0000 INFO POST creator with body: {'login': 'x', 'password': 'asdfghj2204', 'firstname': 'firstname3409', 'lastname': 'lastname7906'}
+2025-02-14T14:35:43.466810+0000 INFO POST creator with body: {'login': 'login-is-very-very-very-very-very-long---length-equals-65-symbols', 'password': 'asdfghj2204', 'firstname': 'firstname3409', 'lastname': 'lastname7906'}
+2025-02-14T14:35:43.471491+0000 INFO POST creator with body: {'login': 'creator3111', 'password': 'z234567', 'firstname': 'firstnameValue8378', 'lastname': 'lastnameValue6060'}
+2025-02-14T14:35:43.476226+0000 INFO POST creator with body: {'login': 'creator3111', 'password': 'asdfghj2204', 'firstname': 'x', 'lastname': 'x'}
+2025-02-14T14:35:43.480945+0000 INFO POST creator with body: {'login': 'creator3111', 'password': 'asdfghj2204', 'firstname': 'firstname3409', 'lastname': 'lastname7906'}
+2025-02-14T14:35:43.523111+0000 INFO POST creator with body: {'login': 'creator3111', 'password': 'qwertyu1203', 'firstname': 'v2firstname1879', 'lastname': 'v2lastname7732'}
+2025-02-14T14:35:43.528987+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:43.572320+0000 INFO GET story
+2025-02-14T14:35:43.577460+0000 INFO POST creator with body: {'login': 'creator3315', 'password': 'asdfghj3424', 'firstname': 'firstname8007', 'lastname': 'lastname7859'}
+2025-02-14T14:35:43.619468+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8805', 'content': 'content7298'}
+2025-02-14T14:35:43.624890+0000 INFO GET story by id 0
+2025-02-14T14:35:43.671379+0000 INFO GET story
+2025-02-14T14:35:43.676362+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle2603', 'content': 'updatedContent2400', 'id': 0}
+2025-02-14T14:35:43.684971+0000 INFO GET story by id 0
+2025-02-14T14:35:43.753965+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:43.796247+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'long-long-long-long-long-long-long-long-long-long-long-long---end', 'content': 'content7298'}
+2025-02-14T14:35:43.801661+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'x', 'content': 'content7298'}
+2025-02-14T14:35:43.810315+0000 INFO POST creator with body: {'creatorId': 1230789, 'title': 'title8805', 'content': 'content7298'}
+2025-02-14T14:35:43.815587+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8805', 'content': 'content7298'}
+2025-02-14T14:35:43.858162+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8805', 'content': 'other-content5394'}
+2025-02-14T14:35:43.968637+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:44.051614+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:44.094297+0000 INFO GET message
+2025-02-14T14:35:44.099748+0000 INFO POST creator with body: {'login': 'creator9193', 'password': 'asdfghj1620', 'firstname': 'firstname6336', 'lastname': 'lastname4942'}
+2025-02-14T14:35:44.141283+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title6308', 'content': 'content3593'}
+2025-02-14T14:35:44.182384+0000 INFO POST message with body: {'storyId': 0, 'content': 'content3593'}
+2025-02-14T14:35:44.187731+0000 INFO GET message by id: 0
+2025-02-14T14:35:44.192558+0000 INFO GET message
+2025-02-14T14:35:44.198000+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent6420', 'id': 0}
+2025-02-14T14:35:44.205636+0000 INFO GET message by id: 0
+2025-02-14T14:35:44.211209+0000 INFO DELETE message with ID: 0
+2025-02-14T14:35:44.216458+0000 INFO POST message with body: {'storyId': 0, 'content': 'x'}
+2025-02-14T14:35:44.221458+0000 INFO POST message with body: {'storyId': 1230789, 'content': 'content3593'}
+2025-02-14T14:35:44.264149+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:44.341068+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:44.382584+0000 INFO GET sticker
+2025-02-14T14:35:44.388766+0000 INFO POST creator with body: {'login': 'creator2471', 'password': 'asdfghj8556', 'firstname': 'firstname8771', 'lastname': 'lastname9263'}
+2025-02-14T14:35:44.393591+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title1795', 'content': 'content3100'}
+2025-02-14T14:35:44.436627+0000 INFO POST sticker with body: {'name': 'name811'}
+2025-02-14T14:35:44.441957+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:44.485462+0000 INFO GET sticker
+2025-02-14T14:35:44.491063+0000 INFO PUT sticker with body: {'name': 'updatedname9834', 'id': 0}
+2025-02-14T14:35:44.496637+0000 INFO GET sticker by id: 0
+2025-02-14T14:35:44.539596+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:44.582234+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:35:44.588632+0000 INFO POST sticker with body: {'name': 'x'}
+2025-02-14T14:35:44.593900+0000 INFO POST sticker with body: {'name': 'long-long-long-long-long-long-123'}
+2025-02-14T14:35:44.637433+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:35:44.714635+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.004531+0000 INFO POST creator with body: {'login': 'creator4802', 'password': 'asdfghj2558', 'firstname': 'firstname7803', 'lastname': 'lastname1725'}
+2025-02-14T14:37:39.010423+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:37:39.060586+0000 INFO GET creator
+2025-02-14T14:37:39.065415+0000 INFO PUT creator with body: {'login': 'updatedCreator6025', 'password': 'updatedAsdfghj3144', 'firstname': 'updatedFirstname4277', 'lastname': 'updatedLastname6644', 'id': 0}
+2025-02-14T14:37:39.106527+0000 INFO GET creator
+2025-02-14T14:37:39.111751+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.153541+0000 INFO POST creator with body: {'login': 'x', 'password': 'asdfghj2558', 'firstname': 'firstname7803', 'lastname': 'lastname1725'}
+2025-02-14T14:37:39.159059+0000 INFO POST creator with body: {'login': 'login-is-very-very-very-very-very-long---length-equals-65-symbols', 'password': 'asdfghj2558', 'firstname': 'firstname7803', 'lastname': 'lastname1725'}
+2025-02-14T14:37:39.163627+0000 INFO POST creator with body: {'login': 'creator4802', 'password': 'z234567', 'firstname': 'firstnameValue7242', 'lastname': 'lastnameValue9627'}
+2025-02-14T14:37:39.168362+0000 INFO POST creator with body: {'login': 'creator4802', 'password': 'asdfghj2558', 'firstname': 'x', 'lastname': 'x'}
+2025-02-14T14:37:39.173641+0000 INFO POST creator with body: {'login': 'creator4802', 'password': 'asdfghj2558', 'firstname': 'firstname7803', 'lastname': 'lastname1725'}
+2025-02-14T14:37:39.215290+0000 INFO POST creator with body: {'login': 'creator4802', 'password': 'qwertyu8375', 'firstname': 'v2firstname5493', 'lastname': 'v2lastname883'}
+2025-02-14T14:37:39.220721+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.273132+0000 INFO GET story
+2025-02-14T14:37:39.278852+0000 INFO POST creator with body: {'login': 'creator1429', 'password': 'asdfghj515', 'firstname': 'firstname5116', 'lastname': 'lastname7144'}
+2025-02-14T14:37:39.322067+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4068', 'content': 'content8329'}
+2025-02-14T14:37:39.327430+0000 INFO GET story by id 0
+2025-02-14T14:37:39.369446+0000 INFO GET story
+2025-02-14T14:37:39.375506+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle4026', 'content': 'updatedContent4916', 'id': 0}
+2025-02-14T14:37:39.380434+0000 INFO GET story by id 0
+2025-02-14T14:37:39.423071+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.464662+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'long-long-long-long-long-long-long-long-long-long-long-long---end', 'content': 'content8329'}
+2025-02-14T14:37:39.469995+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'x', 'content': 'content8329'}
+2025-02-14T14:37:39.478929+0000 INFO POST creator with body: {'creatorId': 1230789, 'title': 'title4068', 'content': 'content8329'}
+2025-02-14T14:37:39.484040+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4068', 'content': 'content8329'}
+2025-02-14T14:37:39.526498+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title4068', 'content': 'other-content5319'}
+2025-02-14T14:37:39.531845+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.612155+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.660482+0000 INFO GET message
+2025-02-14T14:37:39.666419+0000 INFO POST creator with body: {'login': 'creator6158', 'password': 'asdfghj8627', 'firstname': 'firstname8316', 'lastname': 'lastname821'}
+2025-02-14T14:37:39.709269+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title3107', 'content': 'content7237'}
+2025-02-14T14:37:39.752088+0000 INFO POST message with body: {'storyId': 0, 'content': 'content7237'}
+2025-02-14T14:37:39.757815+0000 INFO GET message by id: 0
+2025-02-14T14:37:39.763009+0000 INFO GET message
+2025-02-14T14:37:39.767889+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent3741', 'id': 0}
+2025-02-14T14:37:39.773172+0000 INFO GET message by id: 0
+2025-02-14T14:37:39.778539+0000 INFO DELETE message with ID: 0
+2025-02-14T14:37:39.783916+0000 INFO POST message with body: {'storyId': 0, 'content': 'x'}
+2025-02-14T14:37:39.791661+0000 INFO POST message with body: {'storyId': 1230789, 'content': 'content7237'}
+2025-02-14T14:37:39.835286+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.914154+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:39.958900+0000 INFO GET sticker
+2025-02-14T14:37:39.964530+0000 INFO POST creator with body: {'login': 'creator9125', 'password': 'asdfghj2458', 'firstname': 'firstname1947', 'lastname': 'lastname2833'}
+2025-02-14T14:37:39.993594+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title780', 'content': 'content5095'}
+2025-02-14T14:37:40.034380+0000 INFO POST sticker with body: {'name': 'name9134'}
+2025-02-14T14:37:40.039558+0000 INFO GET sticker by id: 0
+2025-02-14T14:37:40.080686+0000 INFO GET sticker
+2025-02-14T14:37:40.085641+0000 INFO PUT sticker with body: {'name': 'updatedname333', 'id': 0}
+2025-02-14T14:37:40.090534+0000 INFO GET sticker by id: 0
+2025-02-14T14:37:40.131734+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:37:40.172968+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:37:40.178384+0000 INFO POST sticker with body: {'name': 'x'}
+2025-02-14T14:37:40.183222+0000 INFO POST sticker with body: {'name': 'long-long-long-long-long-long-123'}
+2025-02-14T14:37:40.225250+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:37:40.302031+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.887133+0000 INFO GET creator
+2025-02-14T14:39:16.893379+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.898738+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.903842+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.909096+0000 INFO GET definite creator with ID: 0
+2025-02-14T14:39:16.914570+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.920230+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.925109+0000 INFO GET creator
+2025-02-14T14:39:16.930356+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.935377+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.940390+0000 INFO PUT creator with body: {'login': 'updatedCreator2532', 'password': 'updatedAsdfghj2311', 'firstname': 'updatedFirstname2914', 'lastname': 'updatedLastname9400', 'id': 0}
+2025-02-14T14:39:16.946487+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.951697+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.957447+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.962871+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.967917+0000 INFO POST creator with body: {'login': 'creator6636', 'password': 'asdfghj5268', 'firstname': 'firstname3072', 'lastname': 'lastname8988'}
+2025-02-14T14:39:16.972925+0000 INFO PUT creator with body: {'login': 'x', 'password': 'updatedAsdfghj2311', 'firstname': 'updatedFirstname2914', 'lastname': 'updatedLastname9400', 'id': 0}
+2025-02-14T14:39:16.978171+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:16.997831+0000 INFO GET story
+2025-02-14T14:39:17.003318+0000 INFO POST creator with body: {'login': 'creator9172', 'password': 'asdfghj384', 'firstname': 'firstname963', 'lastname': 'lastname5164'}
+2025-02-14T14:39:17.008373+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.013508+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.024111+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.029923+0000 INFO GET story by id 0
+2025-02-14T14:39:17.034922+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.040248+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.045435+0000 INFO GET story
+2025-02-14T14:39:17.050816+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.055789+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.060919+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'updatedTitle4654', 'content': 'updatedContent4641', 'id': 0}
+2025-02-14T14:39:17.067334+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.072760+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.077837+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.083165+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.088120+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title8591', 'content': 'content3855'}
+2025-02-14T14:39:17.092873+0000 INFO PUT creator with body: {'creatorId': 0, 'title': 'x', 'content': 'updatedContent4641', 'id': 0}
+2025-02-14T14:39:17.098571+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.105263+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.114330+0000 INFO GET message
+2025-02-14T14:39:17.119390+0000 INFO POST creator with body: {'login': 'creator5155', 'password': 'asdfghj3682', 'firstname': 'firstname204', 'lastname': 'lastname4931'}
+2025-02-14T14:39:17.125017+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title7487', 'content': 'content5574'}
+2025-02-14T14:39:17.130192+0000 INFO POST message with body: {'storyId': 0, 'content': 'content5574'}
+2025-02-14T14:39:17.135456+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.141053+0000 INFO POST message with body: {'storyId': 0, 'content': 'content5574'}
+2025-02-14T14:39:17.146540+0000 INFO GET message by id: 0
+2025-02-14T14:39:17.151995+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.157960+0000 INFO POST message with body: {'storyId': 0, 'content': 'content5574'}
+2025-02-14T14:39:17.163087+0000 INFO GET message
+2025-02-14T14:39:17.169018+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.174106+0000 INFO POST message with body: {'storyId': 0, 'content': 'content5574'}
+2025-02-14T14:39:17.178895+0000 INFO PUT message with body: {'storyId': 0, 'content': 'updatedcontent1270', 'id': 0}
+2025-02-14T14:39:17.185629+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.190930+0000 INFO POST message with body: {'storyId': 0, 'content': 'content5574'}
+2025-02-14T14:39:17.196309+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.201656+0000 INFO DELETE message with ID: 0
+2025-02-14T14:39:17.207004+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.215657+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.231380+0000 INFO GET sticker
+2025-02-14T14:39:17.237149+0000 INFO POST creator with body: {'login': 'creator7728', 'password': 'asdfghj7544', 'firstname': 'firstname1558', 'lastname': 'lastname919'}
+2025-02-14T14:39:17.241824+0000 INFO POST creator with body: {'creatorId': 0, 'title': 'title2148', 'content': 'content4697'}
+2025-02-14T14:39:17.246674+0000 INFO POST sticker with body: {'name': 'name584'}
+2025-02-14T14:39:17.251689+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.256556+0000 INFO POST sticker with body: {'name': 'name584'}
+2025-02-14T14:39:17.265046+0000 INFO GET sticker by id: 0
+2025-02-14T14:39:17.271219+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.276284+0000 INFO POST sticker with body: {'name': 'name584'}
+2025-02-14T14:39:17.281334+0000 INFO GET sticker
+2025-02-14T14:39:17.286932+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.291885+0000 INFO POST sticker with body: {'name': 'name584'}
+2025-02-14T14:39:17.296916+0000 INFO PUT sticker with body: {'name': 'updatedname5299', 'id': 0}
+2025-02-14T14:39:17.301861+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.307072+0000 INFO POST sticker with body: {'name': 'name584'}
+2025-02-14T14:39:17.312212+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.317273+0000 INFO DELETE sticker with ID: 0
+2025-02-14T14:39:17.326726+0000 INFO DELETE creator with ID: 0
+2025-02-14T14:39:17.331835+0000 INFO DELETE creator with ID: 0

@@ -1,0 +1,14 @@
+services:
+  laba1:
+    build: ./laba1
+    container_name: laba1
+    ports:
+      - "24110:24110"
+    volumes:
+      - ./laba1:/app
+
+  khmelov:
+    image: khmelov/distcomp 
+    ports: 
+      - "24100:24100"
+      
