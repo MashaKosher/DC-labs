@@ -1,0 +1,459 @@
+2025-02-16T17:05:24.071679+0000 INFO GET Creator
+2025-02-16T17:05:24.096715+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.114316+0000 INFO DELETE Сreator with ID: 288
+2025-02-16T17:05:24.139469+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.152276+0000 INFO GET definite Creator with ID: 289
+2025-02-16T17:05:24.165889+0000 INFO DELETE Сreator with ID: 289
+2025-02-16T17:05:24.179730+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.193303+0000 INFO GET Creator
+2025-02-16T17:05:24.202388+0000 INFO DELETE Сreator with ID: 290
+2025-02-16T17:05:24.214982+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.228154+0000 INFO PUT Сreator with body: {'login': 'updatedCreator7913', 'password': 'updatedAsdfghj7878', 'firstname': 'updatedFirstname803', 'lastname': 'updatedLastname3229', 'id': 291}
+2025-02-16T17:05:24.243474+0000 INFO DELETE Сreator with ID: 291
+2025-02-16T17:05:24.257293+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.270448+0000 INFO DELETE Сreator with ID: 292
+2025-02-16T17:05:24.284400+0000 INFO DELETE Сreator with ID: 292
+2025-02-16T17:05:24.295713+0000 INFO POST Сreator with body: {'login': 'creator8060', 'password': 'asdfghj2098', 'firstname': 'firstname2273', 'lastname': 'lastname2876'}
+2025-02-16T17:05:24.348417+0000 INFO DELETE Сreator with ID: 293
+2025-02-16T17:05:24.361997+0000 INFO GET Sticker
+2025-02-16T17:05:24.408721+0000 INFO POST Сreator with body: {'login': 'creator5698', 'password': 'asdfghj221', 'firstname': 'firstname7982', 'lastname': 'lastname4302'}
+2025-02-16T17:05:24.420413+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.437153+0000 INFO DELETE Story with ID: 215
+2025-02-16T17:05:24.460211+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.473059+0000 INFO GET definite Story with id: 216
+2025-02-16T17:05:24.483052+0000 INFO DELETE Story with ID: 216
+2025-02-16T17:05:24.495626+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.509230+0000 INFO GET Sticker
+2025-02-16T17:05:24.517986+0000 INFO DELETE Story with ID: 217
+2025-02-16T17:05:24.530254+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.542979+0000 INFO PUT Story with body: {'creatorId': 294, 'title': 'updatedTitle616', 'content': 'updatedContent5600', 'id': 218}
+2025-02-16T17:05:24.554133+0000 INFO DELETE Story with ID: 218
+2025-02-16T17:05:24.566485+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.578595+0000 INFO DELETE Story with ID: 219
+2025-02-16T17:05:24.590659+0000 INFO DELETE Story with ID: 219
+2025-02-16T17:05:24.598554+0000 INFO POST Story with body: {'creatorId': 294, 'title': 'title2757', 'content': 'content2268'}
+2025-02-16T17:05:24.616772+0000 INFO DELETE Story with ID: 220
+2025-02-16T17:05:24.663586+0000 INFO DELETE Сreator with ID: 294
+2025-02-16T17:05:24.677518+0000 INFO GET Message
+2025-02-16T17:05:24.688204+0000 INFO POST Сreator with body: {'login': 'creator6255', 'password': 'asdfghj9904', 'firstname': 'firstname8675', 'lastname': 'lastname3361'}
+2025-02-16T17:05:24.707740+0000 INFO POST Story with body: {'creatorId': 295, 'title': 'title742', 'content': 'content5456'}
+2025-02-16T17:05:24.721786+0000 INFO POST Message with body: {'storyId': 221, 'content': 'content5456'}
+2025-02-16T17:05:24.734795+0000 INFO DELETE message with ID: 79
+2025-02-16T17:05:24.750281+0000 INFO POST Message with body: {'storyId': 221, 'content': 'content5456'}
+2025-02-16T17:05:24.761335+0000 INFO GET definite Message with id: 80
+2025-02-16T17:05:24.832327+0000 INFO DELETE message with ID: 80
+2025-02-16T17:05:24.844383+0000 INFO POST Message with body: {'storyId': 221, 'content': 'content5456'}
+2025-02-16T17:05:24.856147+0000 INFO GET Message
+2025-02-16T17:05:24.864962+0000 INFO DELETE message with ID: 81
+2025-02-16T17:05:24.875452+0000 INFO POST Message with body: {'storyId': 221, 'content': 'content5456'}
+2025-02-16T17:05:24.887441+0000 INFO PUT Message with body: {'storyId': 221, 'content': 'updatedcontent8842', 'id': 82}
+2025-02-16T17:05:24.901111+0000 INFO DELETE message with ID: 82
+2025-02-16T17:05:24.911825+0000 INFO POST Message with body: {'storyId': 221, 'content': 'content5456'}
+2025-02-16T17:05:24.923458+0000 INFO DELETE message with ID: 83
+2025-02-16T17:05:24.934330+0000 INFO DELETE message with ID: 83
+2025-02-16T17:05:24.943119+0000 INFO DELETE Story with ID: 221
+2025-02-16T17:05:24.956901+0000 INFO DELETE Сreator with ID: 295
+2025-02-16T17:05:25.004541+0000 INFO GET Sticker
+2025-02-16T17:05:25.017677+0000 INFO POST Сreator with body: {'login': 'creator2542', 'password': 'asdfghj1925', 'firstname': 'firstname5401', 'lastname': 'lastname8333'}
+2025-02-16T17:05:25.028863+0000 INFO POST Story with body: {'creatorId': 296, 'title': 'title1913', 'content': 'content4927'}
+2025-02-16T17:05:25.041051+0000 INFO POST Sticker with body: {'name': 'name8006'}
+2025-02-16T17:05:25.051699+0000 INFO DELETE Sticker with ID: 77
+2025-02-16T17:05:25.062892+0000 INFO POST Sticker with body: {'name': 'name8006'}
+2025-02-16T17:05:25.071877+0000 INFO GET definite Sticker with id: 78
+2025-02-16T17:05:25.082844+0000 INFO DELETE Sticker with ID: 78
+2025-02-16T17:05:25.129216+0000 INFO POST Sticker with body: {'name': 'name8006'}
+2025-02-16T17:05:25.144251+0000 INFO GET Sticker
+2025-02-16T17:05:25.153098+0000 INFO DELETE Sticker with ID: 79
+2025-02-16T17:05:25.163752+0000 INFO POST Sticker with body: {'name': 'name8006'}
+2025-02-16T17:05:25.173389+0000 INFO PUT Sticker with body: {'name': 'updatedname8140', 'id': 80}
+2025-02-16T17:05:25.185473+0000 INFO DELETE Sticker with ID: 80
+2025-02-16T17:05:25.196305+0000 INFO POST Sticker with body: {'name': 'name8006'}
+2025-02-16T17:05:25.205661+0000 INFO DELETE Sticker with ID: 81
+2025-02-16T17:05:25.216452+0000 INFO DELETE Sticker with ID: 81
+2025-02-16T17:05:25.228243+0000 INFO DELETE Story with ID: 222
+2025-02-16T17:05:25.241242+0000 INFO DELETE Сreator with ID: 296
+2025-02-16T17:05:28.194749+0000 INFO POST Сreator with body: {'login': 'creator6024', 'password': 'asdfghj9759', 'firstname': 'firstname3954', 'lastname': 'lastname6704'}
+2025-02-16T17:05:28.217107+0000 INFO GET definite Creator with ID: 297
+2025-02-16T17:05:28.248928+0000 INFO GET Creator
+2025-02-16T17:05:28.257535+0000 INFO PUT Сreator with body: {'login': 'updatedCreator8981', 'password': 'updatedAsdfghj7096', 'firstname': 'updatedFirstname6037', 'lastname': 'updatedLastname3302', 'id': 297}
+2025-02-16T17:05:28.290246+0000 INFO GET Creator
+2025-02-16T17:05:28.299460+0000 INFO DELETE Сreator with ID: 297
+2025-02-16T17:05:28.350422+0000 INFO POST Сreator with body: {'login': 'creator6024', 'password': 'asdfghj9759', 'firstname': 'firstname3954', 'lastname': 'lastname6704'}
+2025-02-16T17:05:28.378147+0000 INFO POST Сreator with body: {'login': 'creator6024', 'password': 'qwertyu1722', 'firstname': 'v2firstname7061', 'lastname': 'v2lastname8798'}
+2025-02-16T17:05:28.386132+0000 INFO DELETE Сreator with ID: 298
+2025-02-16T17:05:28.457996+0000 INFO GET Sticker
+2025-02-16T17:05:28.502643+0000 INFO POST Сreator with body: {'login': 'creator7353', 'password': 'asdfghj7303', 'firstname': 'firstname624', 'lastname': 'lastname2588'}
+2025-02-16T17:05:28.533711+0000 INFO POST Story with body: {'creatorId': 299, 'title': 'title5146', 'content': 'content8254'}
+2025-02-16T17:05:28.549717+0000 INFO GET definite Story with id: 223
+2025-02-16T17:05:28.579480+0000 INFO GET Sticker
+2025-02-16T17:05:28.589292+0000 INFO PUT Story with body: {'creatorId': 299, 'title': 'updatedTitle1572', 'content': 'updatedContent5613', 'id': 223}
+2025-02-16T17:05:28.601362+0000 INFO GET definite Story with id: 223
+2025-02-16T17:05:28.632930+0000 INFO DELETE Story with ID: 223
+2025-02-16T17:05:28.679453+0000 INFO POST Story with body: {'creatorId': 123299789, 'title': 'title5146', 'content': 'content8254'}
+2025-02-16T17:05:28.686712+0000 INFO POST Story with body: {'creatorId': 299, 'title': 'title5146', 'content': 'content8254'}
+2025-02-16T17:05:28.716139+0000 INFO POST Story with body: {'creatorId': 299, 'title': 'title5146', 'content': 'other-content5082'}
+2025-02-16T17:05:28.724689+0000 INFO DELETE Story with ID: 224
+2025-02-16T17:05:28.815785+0000 INFO DELETE Сreator with ID: 299
+2025-02-16T17:05:28.887798+0000 INFO GET Message
+2025-02-16T17:05:28.933065+0000 INFO POST Сreator with body: {'login': 'creator9985', 'password': 'asdfghj9729', 'firstname': 'firstname6412', 'lastname': 'lastname8786'}
+2025-02-16T17:05:29.031989+0000 INFO POST Story with body: {'creatorId': 300, 'title': 'title2810', 'content': 'content4589'}
+2025-02-16T17:05:29.071119+0000 INFO POST Message with body: {'storyId': 225, 'content': 'content4589'}
+2025-02-16T17:05:29.086518+0000 INFO GET definite Message with id: 84
+2025-02-16T17:05:29.098238+0000 INFO GET Message
+2025-02-16T17:05:29.109148+0000 INFO PUT Message with body: {'storyId': 225, 'content': 'updatedcontent6998', 'id': 84}
+2025-02-16T17:05:29.122844+0000 INFO GET definite Message with id: 84
+2025-02-16T17:05:29.132858+0000 INFO DELETE message with ID: 84
+2025-02-16T17:05:29.150312+0000 INFO POST Message with body: {'storyId': 123225789, 'content': 'content4589'}
+2025-02-16T17:05:29.181330+0000 INFO DELETE Story with ID: 225
+2025-02-16T17:05:29.228169+0000 INFO DELETE Сreator with ID: 300
+2025-02-16T17:05:29.258455+0000 INFO GET Sticker
+2025-02-16T17:05:29.302981+0000 INFO POST Сreator with body: {'login': 'creator3172', 'password': 'asdfghj6459', 'firstname': 'firstname738', 'lastname': 'lastname9812'}
+2025-02-16T17:05:29.313008+0000 INFO POST Story with body: {'creatorId': 301, 'title': 'title1411', 'content': 'content5114'}
+2025-02-16T17:05:29.347010+0000 INFO POST Sticker with body: {'name': 'name1929'}
+2025-02-16T17:05:29.356267+0000 INFO GET definite Sticker with id: 82
+2025-02-16T17:05:29.384801+0000 INFO GET Sticker
+2025-02-16T17:05:29.422295+0000 INFO PUT Sticker with body: {'name': 'updatedname1553', 'id': 82}
+2025-02-16T17:05:29.432456+0000 INFO GET definite Sticker with id: 82
+2025-02-16T17:05:29.463280+0000 INFO DELETE Sticker with ID: 82
+2025-02-16T17:05:29.531537+0000 INFO DELETE Sticker with ID: 82
+2025-02-16T17:05:29.571904+0000 INFO DELETE Story with ID: 226
+2025-02-16T17:05:29.622876+0000 INFO DELETE Сreator with ID: 301
+2025-02-16T17:06:23.947147+0000 INFO POST Сreator with body: {'login': 'creator5001', 'password': 'asdfghj6519', 'firstname': 'firstname8172', 'lastname': 'lastname5911'}
+2025-02-16T17:06:23.983521+0000 INFO GET Creator
+2025-02-16T17:06:24.054558+0000 INFO GET Creator
+2025-02-16T17:06:24.109313+0000 INFO POST Сreator with body: {'login': 'creator5001', 'password': 'asdfghj6519', 'firstname': 'firstname8172', 'lastname': 'lastname5911'}
+2025-02-16T17:06:24.139068+0000 INFO POST Сreator with body: {'login': 'creator5001', 'password': 'qwertyu6569', 'firstname': 'v2firstname2935', 'lastname': 'v2lastname8718'}
+2025-02-16T17:06:24.210927+0000 INFO GET Sticker
+2025-02-16T17:06:24.222936+0000 INFO POST Сreator with body: {'login': 'creator5193', 'password': 'asdfghj8605', 'firstname': 'firstname5356', 'lastname': 'lastname2457'}
+2025-02-16T17:06:24.257190+0000 INFO POST Story with body: {'creatorId': 302, 'title': 'title3220', 'content': 'content7744'}
+2025-02-16T17:06:24.308829+0000 INFO GET definite Story with id: 227
+2025-02-16T17:06:24.344164+0000 INFO GET Sticker
+2025-02-16T17:06:24.352743+0000 INFO PUT Story with body: {'creatorId': 302, 'title': 'updatedTitle2338', 'content': 'updatedContent6271', 'id': 227}
+2025-02-16T17:06:24.363924+0000 INFO GET definite Story with id: 227
+2025-02-16T17:06:24.391984+0000 INFO DELETE Story with ID: 227
+2025-02-16T17:06:24.443491+0000 INFO POST Story with body: {'creatorId': 123302789, 'title': 'title3220', 'content': 'content7744'}
+2025-02-16T17:06:24.450958+0000 INFO POST Story with body: {'creatorId': 302, 'title': 'title3220', 'content': 'content7744'}
+2025-02-16T17:06:24.494202+0000 INFO POST Story with body: {'creatorId': 302, 'title': 'title3220', 'content': 'other-content8070'}
+2025-02-16T17:06:24.503005+0000 INFO DELETE Story with ID: 228
+2025-02-16T17:06:24.560381+0000 INFO DELETE Сreator with ID: 302
+2025-02-16T17:06:24.628756+0000 INFO GET Message
+2025-02-16T17:06:24.674522+0000 INFO POST Сreator with body: {'login': 'creator3393', 'password': 'asdfghj3205', 'firstname': 'firstname2491', 'lastname': 'lastname7960'}
+2025-02-16T17:06:24.706010+0000 INFO POST Story with body: {'creatorId': 303, 'title': 'title2558', 'content': 'content8454'}
+2025-02-16T17:06:24.737818+0000 INFO POST Message with body: {'storyId': 229, 'content': 'content8454'}
+2025-02-16T17:06:24.749785+0000 INFO GET definite Message with id: 85
+2025-02-16T17:06:24.758677+0000 INFO GET Message
+2025-02-16T17:06:24.767478+0000 INFO PUT Message with body: {'storyId': 229, 'content': 'updatedcontent8035', 'id': 85}
+2025-02-16T17:06:24.779157+0000 INFO GET definite Message with id: 85
+2025-02-16T17:06:24.788848+0000 INFO DELETE message with ID: 85
+2025-02-16T17:06:24.804732+0000 INFO POST Message with body: {'storyId': 123229789, 'content': 'content8454'}
+2025-02-16T17:06:24.833460+0000 INFO DELETE Story with ID: 229
+2025-02-16T17:06:24.884536+0000 INFO DELETE Сreator with ID: 303
+2025-02-16T17:06:24.914158+0000 INFO GET Sticker
+2025-02-16T17:06:24.922840+0000 INFO POST Сreator with body: {'login': 'creator6302', 'password': 'asdfghj5574', 'firstname': 'firstname4510', 'lastname': 'lastname8392'}
+2025-02-16T17:06:24.940687+0000 INFO POST Story with body: {'creatorId': 304, 'title': 'title3395', 'content': 'content5078'}
+2025-02-16T17:06:24.980655+0000 INFO POST Sticker with body: {'name': 'name9279'}
+2025-02-16T17:06:25.027660+0000 INFO GET definite Sticker with id: 83
+2025-02-16T17:06:25.092212+0000 INFO GET Sticker
+2025-02-16T17:06:25.102099+0000 INFO PUT Sticker with body: {'name': 'updatedname8597', 'id': 83}
+2025-02-16T17:06:25.112489+0000 INFO GET definite Sticker with id: 83
+2025-02-16T17:06:25.142176+0000 INFO DELETE Sticker with ID: 83
+2025-02-16T17:06:25.172507+0000 INFO DELETE Sticker with ID: 83
+2025-02-16T17:06:25.213811+0000 INFO DELETE Story with ID: 230
+2025-02-16T17:06:25.264126+0000 INFO DELETE Сreator with ID: 304
+2025-02-16T17:06:26.805671+0000 INFO POST Сreator with body: {'login': 'creator2242', 'password': 'asdfghj9002', 'firstname': 'firstname115', 'lastname': 'lastname8814'}
+2025-02-16T17:06:26.818838+0000 INFO GET definite Creator with ID: 305
+2025-02-16T17:06:26.847419+0000 INFO GET Creator
+2025-02-16T17:06:26.859007+0000 INFO PUT Сreator with body: {'login': 'updatedCreator1471', 'password': 'updatedAsdfghj8443', 'firstname': 'updatedFirstname4442', 'lastname': 'updatedLastname6762', 'id': 305}
+2025-02-16T17:06:26.891137+0000 INFO GET Creator
+2025-02-16T17:06:26.899891+0000 INFO DELETE Сreator with ID: 305
+2025-02-16T17:06:26.950728+0000 INFO POST Сreator with body: {'login': 'creator2242', 'password': 'asdfghj9002', 'firstname': 'firstname115', 'lastname': 'lastname8814'}
+2025-02-16T17:06:26.979612+0000 INFO POST Сreator with body: {'login': 'creator2242', 'password': 'qwertyu2261', 'firstname': 'v2firstname2057', 'lastname': 'v2lastname8414'}
+2025-02-16T17:06:26.986781+0000 INFO DELETE Сreator with ID: 306
+2025-02-16T17:06:27.018900+0000 INFO GET Sticker
+2025-02-16T17:06:27.027902+0000 INFO POST Сreator with body: {'login': 'creator8833', 'password': 'asdfghj4630', 'firstname': 'firstname1481', 'lastname': 'lastname463'}
+2025-02-16T17:06:27.062968+0000 INFO POST Story with body: {'creatorId': 307, 'title': 'title5490', 'content': 'content5404'}
+2025-02-16T17:06:27.075365+0000 INFO GET definite Story with id: 231
+2025-02-16T17:06:27.143304+0000 INFO GET Sticker
+2025-02-16T17:06:27.151644+0000 INFO PUT Story with body: {'creatorId': 307, 'title': 'updatedTitle418', 'content': 'updatedContent3111', 'id': 231}
+2025-02-16T17:06:27.162166+0000 INFO GET definite Story with id: 231
+2025-02-16T17:06:27.190775+0000 INFO DELETE Story with ID: 231
+2025-02-16T17:06:27.242193+0000 INFO POST Story with body: {'creatorId': 123307789, 'title': 'title5490', 'content': 'content5404'}
+2025-02-16T17:06:27.249963+0000 INFO POST Story with body: {'creatorId': 307, 'title': 'title5490', 'content': 'content5404'}
+2025-02-16T17:06:27.284286+0000 INFO POST Story with body: {'creatorId': 307, 'title': 'title5490', 'content': 'other-content3642'}
+2025-02-16T17:06:27.293838+0000 INFO DELETE Story with ID: 232
+2025-02-16T17:06:27.390619+0000 INFO DELETE Сreator with ID: 307
+2025-02-16T17:06:27.425286+0000 INFO GET Message
+2025-02-16T17:06:27.434850+0000 INFO POST Сreator with body: {'login': 'creator4887', 'password': 'asdfghj5534', 'firstname': 'firstname1478', 'lastname': 'lastname9114'}
+2025-02-16T17:06:27.500949+0000 INFO POST Story with body: {'creatorId': 308, 'title': 'title1190', 'content': 'content6602'}
+2025-02-16T17:06:27.532192+0000 INFO POST Message with body: {'storyId': 233, 'content': 'content6602'}
+2025-02-16T17:06:27.577074+0000 INFO GET definite Message with id: 86
+2025-02-16T17:06:27.590525+0000 INFO GET Message
+2025-02-16T17:06:27.600418+0000 INFO PUT Message with body: {'storyId': 233, 'content': 'updatedcontent4875', 'id': 86}
+2025-02-16T17:06:27.660686+0000 INFO GET definite Message with id: 86
+2025-02-16T17:06:27.669629+0000 INFO DELETE message with ID: 86
+2025-02-16T17:06:27.688803+0000 INFO POST Message with body: {'storyId': 123233789, 'content': 'content6602'}
+2025-02-16T17:06:27.717064+0000 INFO DELETE Story with ID: 233
+2025-02-16T17:06:27.767055+0000 INFO DELETE Сreator with ID: 308
+2025-02-16T17:06:27.798100+0000 INFO GET Sticker
+2025-02-16T17:06:27.806955+0000 INFO POST Сreator with body: {'login': 'creator2232', 'password': 'asdfghj6712', 'firstname': 'firstname8453', 'lastname': 'lastname2050'}
+2025-02-16T17:06:27.819547+0000 INFO POST Story with body: {'creatorId': 309, 'title': 'title1211', 'content': 'content851'}
+2025-02-16T17:06:27.852335+0000 INFO POST Sticker with body: {'name': 'name4476'}
+2025-02-16T17:06:27.861241+0000 INFO GET definite Sticker with id: 84
+2025-02-16T17:06:27.891030+0000 INFO GET Sticker
+2025-02-16T17:06:27.899592+0000 INFO PUT Sticker with body: {'name': 'updatedname2217', 'id': 84}
+2025-02-16T17:06:27.910308+0000 INFO GET definite Sticker with id: 84
+2025-02-16T17:06:27.930190+0000 INFO POST Сreator with body: {'login': 'creator1432', 'password': 'asdfghj3744', 'firstname': 'firstname8287', 'lastname': 'lastname3335'}
+2025-02-16T17:06:27.942444+0000 INFO GET definite Creator with ID: 310
+2025-02-16T17:06:27.971742+0000 INFO GET Creator
+2025-02-16T17:06:27.980067+0000 INFO PUT Сreator with body: {'login': 'updatedCreator1747', 'password': 'updatedAsdfghj6916', 'firstname': 'updatedFirstname537', 'lastname': 'updatedLastname5419', 'id': 310}
+2025-02-16T17:06:28.009579+0000 INFO GET Creator
+2025-02-16T17:06:28.018327+0000 INFO DELETE Сreator with ID: 310
+2025-02-16T17:06:28.072358+0000 INFO POST Сreator with body: {'login': 'creator1432', 'password': 'asdfghj3744', 'firstname': 'firstname8287', 'lastname': 'lastname3335'}
+2025-02-16T17:06:28.100272+0000 INFO POST Сreator with body: {'login': 'creator1432', 'password': 'qwertyu7066', 'firstname': 'v2firstname1105', 'lastname': 'v2lastname7099'}
+2025-02-16T17:06:28.108110+0000 INFO DELETE Сreator with ID: 311
+2025-02-16T17:06:28.141454+0000 INFO GET Sticker
+2025-02-16T17:06:28.153132+0000 INFO POST Сreator with body: {'login': 'creator7473', 'password': 'asdfghj5869', 'firstname': 'firstname1988', 'lastname': 'lastname9156'}
+2025-02-16T17:06:28.181609+0000 INFO POST Story with body: {'creatorId': 312, 'title': 'title6767', 'content': 'content5671'}
+2025-02-16T17:06:28.230460+0000 INFO GET definite Story with id: 235
+2025-02-16T17:06:28.258750+0000 INFO GET Sticker
+2025-02-16T17:06:28.267362+0000 INFO PUT Story with body: {'creatorId': 312, 'title': 'updatedTitle374', 'content': 'updatedContent9177', 'id': 235}
+2025-02-16T17:06:28.278679+0000 INFO GET definite Story with id: 235
+2025-02-16T17:06:28.309496+0000 INFO DELETE Story with ID: 235
+2025-02-16T17:06:28.362084+0000 INFO POST Story with body: {'creatorId': 123312789, 'title': 'title6767', 'content': 'content5671'}
+2025-02-16T17:06:28.370160+0000 INFO POST Story with body: {'creatorId': 312, 'title': 'title6767', 'content': 'content5671'}
+2025-02-16T17:06:28.403381+0000 INFO POST Story with body: {'creatorId': 312, 'title': 'title6767', 'content': 'other-content5863'}
+2025-02-16T17:06:28.411930+0000 INFO DELETE Story with ID: 236
+2025-02-16T17:06:28.502550+0000 INFO DELETE Сreator with ID: 312
+2025-02-16T17:06:28.536697+0000 INFO GET Message
+2025-02-16T17:06:28.546039+0000 INFO POST Сreator with body: {'login': 'creator7882', 'password': 'asdfghj6172', 'firstname': 'firstname7056', 'lastname': 'lastname1942'}
+2025-02-16T17:06:28.613368+0000 INFO POST Story with body: {'creatorId': 313, 'title': 'title2513', 'content': 'content1587'}
+2025-02-16T17:06:28.714956+0000 INFO POST Message with body: {'storyId': 237, 'content': 'content1587'}
+2025-02-16T17:06:28.726162+0000 INFO GET definite Message with id: 87
+2025-02-16T17:06:28.735374+0000 INFO GET Message
+2025-02-16T17:06:28.748551+0000 INFO PUT Message with body: {'storyId': 237, 'content': 'updatedcontent3913', 'id': 87}
+2025-02-16T17:06:28.761084+0000 INFO GET definite Message with id: 87
+2025-02-16T17:06:28.770363+0000 INFO DELETE message with ID: 87
+2025-02-16T17:06:28.792104+0000 INFO POST Message with body: {'storyId': 123237789, 'content': 'content1587'}
+2025-02-16T17:06:28.822191+0000 INFO DELETE Story with ID: 237
+2025-02-16T17:06:28.875404+0000 INFO DELETE Сreator with ID: 313
+2025-02-16T17:06:28.905531+0000 INFO GET Sticker
+2025-02-16T17:06:28.915185+0000 INFO POST Сreator with body: {'login': 'creator3555', 'password': 'asdfghj3116', 'firstname': 'firstname5807', 'lastname': 'lastname6298'}
+2025-02-16T17:06:28.926989+0000 INFO POST Story with body: {'creatorId': 314, 'title': 'title3070', 'content': 'content3949'}
+2025-02-16T17:06:28.960190+0000 INFO POST Sticker with body: {'name': 'name7356'}
+2025-02-16T17:06:28.970160+0000 INFO GET definite Sticker with id: 85
+2025-02-16T17:06:28.998365+0000 INFO GET Sticker
+2025-02-16T17:06:29.006465+0000 INFO PUT Sticker with body: {'name': 'updatedname8531', 'id': 85}
+2025-02-16T17:06:29.016336+0000 INFO GET definite Sticker with id: 85
+2025-02-16T17:06:29.043901+0000 INFO DELETE Sticker with ID: 85
+2025-02-16T17:06:29.050994+0000 INFO POST Сreator with body: {'login': 'creator8895', 'password': 'asdfghj9268', 'firstname': 'firstname8984', 'lastname': 'lastname7482'}
+2025-02-16T17:06:29.066980+0000 INFO GET definite Creator with ID: 315
+2025-02-16T17:06:29.096910+0000 INFO GET Creator
+2025-02-16T17:06:29.105475+0000 INFO PUT Сreator with body: {'login': 'updatedCreator6356', 'password': 'updatedAsdfghj2203', 'firstname': 'updatedFirstname3423', 'lastname': 'updatedLastname8503', 'id': 315}
+2025-02-16T17:06:29.136222+0000 INFO GET Creator
+2025-02-16T17:06:29.144302+0000 INFO DELETE Сreator with ID: 315
+2025-02-16T17:06:29.194119+0000 INFO POST Сreator with body: {'login': 'creator8895', 'password': 'asdfghj9268', 'firstname': 'firstname8984', 'lastname': 'lastname7482'}
+2025-02-16T17:06:29.231051+0000 INFO POST Сreator with body: {'login': 'creator8895', 'password': 'qwertyu5314', 'firstname': 'v2firstname4989', 'lastname': 'v2lastname4187'}
+2025-02-16T17:06:29.238331+0000 INFO DELETE Сreator with ID: 316
+2025-02-16T17:06:29.269776+0000 INFO GET Sticker
+2025-02-16T17:06:29.280046+0000 INFO POST Сreator with body: {'login': 'creator5517', 'password': 'asdfghj5436', 'firstname': 'firstname9754', 'lastname': 'lastname4469'}
+2025-02-16T17:06:29.308116+0000 INFO POST Story with body: {'creatorId': 317, 'title': 'title7086', 'content': 'content8206'}
+2025-02-16T17:06:29.326735+0000 INFO GET definite Story with id: 239
+2025-02-16T17:06:29.352590+0000 INFO GET Sticker
+2025-02-16T17:06:29.395708+0000 INFO PUT Story with body: {'creatorId': 317, 'title': 'updatedTitle4558', 'content': 'updatedContent1381', 'id': 239}
+2025-02-16T17:06:29.406390+0000 INFO GET definite Story with id: 239
+2025-02-16T17:06:29.435324+0000 INFO DELETE Story with ID: 239
+2025-02-16T17:06:29.483025+0000 INFO POST Story with body: {'creatorId': 123317789, 'title': 'title7086', 'content': 'content8206'}
+2025-02-16T17:06:29.490811+0000 INFO POST Story with body: {'creatorId': 317, 'title': 'title7086', 'content': 'content8206'}
+2025-02-16T17:06:29.523092+0000 INFO POST Story with body: {'creatorId': 317, 'title': 'title7086', 'content': 'other-content5569'}
+2025-02-16T17:06:29.532362+0000 INFO DELETE Story with ID: 240
+2025-02-16T17:06:29.582667+0000 INFO DELETE Сreator with ID: 317
+2025-02-16T17:06:29.619809+0000 INFO GET Message
+2025-02-16T17:06:29.666925+0000 INFO POST Сreator with body: {'login': 'creator6310', 'password': 'asdfghj5826', 'firstname': 'firstname5191', 'lastname': 'lastname9095'}
+2025-02-16T17:06:29.698049+0000 INFO POST Story with body: {'creatorId': 318, 'title': 'title9881', 'content': 'content4058'}
+2025-02-16T17:06:29.730302+0000 INFO POST Message with body: {'storyId': 241, 'content': 'content4058'}
+2025-02-16T17:06:29.740502+0000 INFO GET definite Message with id: 88
+2025-02-16T17:06:29.753668+0000 INFO GET Message
+2025-02-16T17:06:29.762445+0000 INFO PUT Message with body: {'storyId': 241, 'content': 'updatedcontent9310', 'id': 88}
+2025-02-16T17:06:29.814159+0000 INFO GET definite Message with id: 88
+2025-02-16T17:06:29.858790+0000 INFO DELETE message with ID: 88
+2025-02-16T17:06:29.874828+0000 INFO POST Message with body: {'storyId': 123241789, 'content': 'content4058'}
+2025-02-16T17:06:29.904110+0000 INFO DELETE Story with ID: 241
+2025-02-16T17:06:29.956009+0000 INFO DELETE Сreator with ID: 318
+2025-02-16T17:06:29.988868+0000 INFO GET Sticker
+2025-02-16T17:06:30.001178+0000 INFO POST Сreator with body: {'login': 'creator9342', 'password': 'asdfghj1909', 'firstname': 'firstname1801', 'lastname': 'lastname9153'}
+2025-02-16T17:06:30.012804+0000 INFO POST Story with body: {'creatorId': 319, 'title': 'title3712', 'content': 'content3283'}
+2025-02-16T17:06:30.045728+0000 INFO POST Sticker with body: {'name': 'name7898'}
+2025-02-16T17:06:30.091983+0000 INFO GET definite Sticker with id: 86
+2025-02-16T17:06:30.124475+0000 INFO GET Sticker
+2025-02-16T17:06:30.133001+0000 INFO PUT Sticker with body: {'name': 'updatedname955', 'id': 86}
+2025-02-16T17:06:30.143425+0000 INFO GET definite Sticker with id: 86
+2025-02-16T17:06:30.169928+0000 INFO DELETE Sticker with ID: 86
+2025-02-16T17:06:30.198856+0000 INFO DELETE Sticker with ID: 86
+2025-02-16T17:06:30.235381+0000 INFO DELETE Story with ID: 242
+2025-02-16T17:06:30.283899+0000 INFO DELETE Сreator with ID: 319
+2025-02-16T17:06:33.168757+0000 INFO POST Сreator with body: {'login': 'creator6312', 'password': 'asdfghj8534', 'firstname': 'firstname4583', 'lastname': 'lastname3965'}
+2025-02-16T17:06:33.217081+0000 INFO GET definite Creator with ID: 320
+2025-02-16T17:06:33.246954+0000 INFO GET Creator
+2025-02-16T17:06:33.255604+0000 INFO PUT Сreator with body: {'login': 'updatedCreator9296', 'password': 'updatedAsdfghj2176', 'firstname': 'updatedFirstname8967', 'lastname': 'updatedLastname3730', 'id': 320}
+2025-02-16T17:06:33.285786+0000 INFO GET Creator
+2025-02-16T17:06:33.294457+0000 INFO DELETE Сreator with ID: 320
+2025-02-16T17:06:33.345811+0000 INFO POST Сreator with body: {'login': 'creator6312', 'password': 'asdfghj8534', 'firstname': 'firstname4583', 'lastname': 'lastname3965'}
+2025-02-16T17:06:33.376789+0000 INFO POST Сreator with body: {'login': 'creator6312', 'password': 'qwertyu8072', 'firstname': 'v2firstname2424', 'lastname': 'v2lastname6585'}
+2025-02-16T17:06:33.385617+0000 INFO DELETE Сreator with ID: 321
+2025-02-16T17:06:33.417110+0000 INFO GET Sticker
+2025-02-16T17:06:33.436358+0000 INFO POST Сreator with body: {'login': 'creator3126', 'password': 'asdfghj9102', 'firstname': 'firstname288', 'lastname': 'lastname5527'}
+2025-02-16T17:06:33.475502+0000 INFO POST Story with body: {'creatorId': 322, 'title': 'title2966', 'content': 'content3779'}
+2025-02-16T17:06:33.490504+0000 INFO GET definite Story with id: 243
+2025-02-16T17:06:33.519492+0000 INFO GET Sticker
+2025-02-16T17:06:33.562760+0000 INFO PUT Story with body: {'creatorId': 322, 'title': 'updatedTitle2003', 'content': 'updatedContent1252', 'id': 243}
+2025-02-16T17:06:33.573301+0000 INFO GET definite Story with id: 243
+2025-02-16T17:06:33.602047+0000 INFO DELETE Story with ID: 243
+2025-02-16T17:06:33.648473+0000 INFO POST Story with body: {'creatorId': 123322789, 'title': 'title2966', 'content': 'content3779'}
+2025-02-16T17:06:33.656585+0000 INFO POST Story with body: {'creatorId': 322, 'title': 'title2966', 'content': 'content3779'}
+2025-02-16T17:06:33.691880+0000 INFO POST Story with body: {'creatorId': 322, 'title': 'title2966', 'content': 'other-content3589'}
+2025-02-16T17:06:33.701967+0000 INFO DELETE Story with ID: 244
+2025-02-16T17:06:33.927601+0000 INFO DELETE Сreator with ID: 322
+2025-02-16T17:06:33.958349+0000 INFO GET Message
+2025-02-16T17:06:33.969750+0000 INFO POST Сreator with body: {'login': 'creator6550', 'password': 'asdfghj1800', 'firstname': 'firstname2415', 'lastname': 'lastname9052'}
+2025-02-16T17:06:34.003478+0000 INFO POST Story with body: {'creatorId': 323, 'title': 'title1957', 'content': 'content9754'}
+2025-02-16T17:06:34.032272+0000 INFO POST Message with body: {'storyId': 245, 'content': 'content9754'}
+2025-02-16T17:06:34.042702+0000 INFO GET definite Message with id: 89
+2025-02-16T17:06:34.051182+0000 INFO GET Message
+2025-02-16T17:06:34.064240+0000 INFO PUT Message with body: {'storyId': 245, 'content': 'updatedcontent9487', 'id': 89}
+2025-02-16T17:06:34.111602+0000 INFO GET definite Message with id: 89
+2025-02-16T17:06:34.159003+0000 INFO DELETE message with ID: 89
+2025-02-16T17:06:34.175576+0000 INFO POST Message with body: {'storyId': 123245789, 'content': 'content9754'}
+2025-02-16T17:06:34.204777+0000 INFO DELETE Story with ID: 245
+2025-02-16T17:06:34.263482+0000 INFO DELETE Сreator with ID: 323
+2025-02-16T17:06:34.294390+0000 INFO GET Sticker
+2025-02-16T17:06:34.303151+0000 INFO POST Сreator with body: {'login': 'creator5622', 'password': 'asdfghj2578', 'firstname': 'firstname8151', 'lastname': 'lastname537'}
+2025-02-16T17:06:34.312962+0000 INFO POST Story with body: {'creatorId': 324, 'title': 'title453', 'content': 'content7836'}
+2025-02-16T17:06:34.351506+0000 INFO POST Sticker with body: {'name': 'name6940'}
+2025-02-16T17:06:34.360699+0000 INFO GET definite Sticker with id: 87
+2025-02-16T17:06:34.425637+0000 INFO GET Sticker
+2025-02-16T17:06:34.469603+0000 INFO PUT Sticker with body: {'name': 'updatedname9892', 'id': 87}
+2025-02-16T17:06:34.480953+0000 INFO GET definite Sticker with id: 87
+2025-02-16T17:06:34.512043+0000 INFO DELETE Sticker with ID: 87
+2025-02-16T17:06:34.542020+0000 INFO DELETE Sticker with ID: 87
+2025-02-16T17:06:34.581737+0000 INFO DELETE Story with ID: 246
+2025-02-16T17:06:34.638388+0000 INFO DELETE Сreator with ID: 324
+2025-02-16T17:06:35.482458+0000 INFO POST Сreator with body: {'login': 'creator6129', 'password': 'asdfghj9192', 'firstname': 'firstname8916', 'lastname': 'lastname4092'}
+2025-02-16T17:06:35.506500+0000 INFO GET definite Creator with ID: 325
+2025-02-16T17:06:35.571142+0000 INFO GET Creator
+2025-02-16T17:06:35.579691+0000 INFO PUT Сreator with body: {'login': 'updatedCreator9866', 'password': 'updatedAsdfghj6419', 'firstname': 'updatedFirstname7123', 'lastname': 'updatedLastname5321', 'id': 325}
+2025-02-16T17:06:35.610312+0000 INFO GET Creator
+2025-02-16T17:06:35.619465+0000 INFO DELETE Сreator with ID: 325
+2025-02-16T17:06:35.671990+0000 INFO POST Сreator with body: {'login': 'creator6129', 'password': 'asdfghj9192', 'firstname': 'firstname8916', 'lastname': 'lastname4092'}
+2025-02-16T17:06:35.702523+0000 INFO POST Сreator with body: {'login': 'creator6129', 'password': 'qwertyu1307', 'firstname': 'v2firstname3148', 'lastname': 'v2lastname1821'}
+2025-02-16T17:06:35.710103+0000 INFO DELETE Сreator with ID: 326
+2025-02-16T17:06:35.745572+0000 INFO GET Sticker
+2025-02-16T17:06:35.758234+0000 INFO POST Сreator with body: {'login': 'creator3113', 'password': 'asdfghj3638', 'firstname': 'firstname753', 'lastname': 'lastname8297'}
+2025-02-16T17:06:35.817486+0000 INFO POST Story with body: {'creatorId': 327, 'title': 'title3807', 'content': 'content2792'}
+2025-02-16T17:06:35.865562+0000 INFO GET definite Story with id: 247
+2025-02-16T17:06:35.893855+0000 INFO GET Sticker
+2025-02-16T17:06:35.902664+0000 INFO PUT Story with body: {'creatorId': 327, 'title': 'updatedTitle6897', 'content': 'updatedContent9150', 'id': 247}
+2025-02-16T17:06:35.913795+0000 INFO GET definite Story with id: 247
+2025-02-16T17:06:35.944992+0000 INFO DELETE Story with ID: 247
+2025-02-16T17:06:35.991843+0000 INFO POST Story with body: {'creatorId': 123327789, 'title': 'title3807', 'content': 'content2792'}
+2025-02-16T17:06:35.999473+0000 INFO POST Story with body: {'creatorId': 327, 'title': 'title3807', 'content': 'content2792'}
+2025-02-16T17:06:36.029430+0000 INFO POST Story with body: {'creatorId': 327, 'title': 'title3807', 'content': 'other-content7752'}
+2025-02-16T17:06:36.038516+0000 INFO DELETE Story with ID: 248
+2025-02-16T17:06:36.088493+0000 INFO DELETE Сreator with ID: 327
+2025-02-16T17:06:36.123517+0000 INFO GET Message
+2025-02-16T17:06:36.132813+0000 INFO POST Сreator with body: {'login': 'creator3281', 'password': 'asdfghj2898', 'firstname': 'firstname8265', 'lastname': 'lastname1437'}
+2025-02-16T17:06:36.198819+0000 INFO POST Story with body: {'creatorId': 328, 'title': 'title9342', 'content': 'content6167'}
+2025-02-16T17:06:36.229739+0000 INFO POST Message with body: {'storyId': 249, 'content': 'content6167'}
+2025-02-16T17:06:36.240930+0000 INFO GET definite Message with id: 90
+2025-02-16T17:06:36.249792+0000 INFO GET Message
+2025-02-16T17:06:36.258961+0000 INFO PUT Message with body: {'storyId': 249, 'content': 'updatedcontent2192', 'id': 90}
+2025-02-16T17:06:36.270628+0000 INFO GET definite Message with id: 90
+2025-02-16T17:06:36.279156+0000 INFO DELETE message with ID: 90
+2025-02-16T17:06:36.296120+0000 INFO POST Message with body: {'storyId': 123249789, 'content': 'content6167'}
+2025-02-16T17:06:36.323413+0000 INFO DELETE Story with ID: 249
+2025-02-16T17:06:36.379143+0000 INFO DELETE Сreator with ID: 328
+2025-02-16T17:06:36.410206+0000 INFO GET Sticker
+2025-02-16T17:06:36.454738+0000 INFO POST Сreator with body: {'login': 'creator3957', 'password': 'asdfghj126', 'firstname': 'firstname9534', 'lastname': 'lastname2489'}
+2025-02-16T17:06:36.502102+0000 INFO POST Story with body: {'creatorId': 329, 'title': 'title2734', 'content': 'content9594'}
+2025-02-16T17:06:36.538388+0000 INFO POST Sticker with body: {'name': 'name4071'}
+2025-02-16T17:06:36.548106+0000 INFO GET definite Sticker with id: 88
+2025-02-16T17:06:36.576587+0000 INFO GET Sticker
+2025-02-16T17:06:36.585204+0000 INFO PUT Sticker with body: {'name': 'updatedname297', 'id': 88}
+2025-02-16T17:06:36.595937+0000 INFO GET definite Sticker with id: 88
+2025-02-16T17:06:36.623932+0000 INFO DELETE Sticker with ID: 88
+2025-02-16T17:06:36.653874+0000 INFO DELETE Sticker with ID: 88
+2025-02-16T17:06:36.694118+0000 INFO DELETE Story with ID: 250
+2025-02-16T17:06:36.744650+0000 INFO DELETE Сreator with ID: 329
+2025-02-16T17:06:40.159846+0000 INFO GET Creator
+2025-02-16T17:06:40.169990+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.191452+0000 INFO DELETE Сreator with ID: 330
+2025-02-16T17:06:40.208205+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.221292+0000 INFO GET definite Creator with ID: 331
+2025-02-16T17:06:40.230544+0000 INFO DELETE Сreator with ID: 331
+2025-02-16T17:06:40.242378+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.252782+0000 INFO GET Creator
+2025-02-16T17:06:40.261581+0000 INFO DELETE Сreator with ID: 332
+2025-02-16T17:06:40.273891+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.283864+0000 INFO PUT Сreator with body: {'login': 'updatedCreator4088', 'password': 'updatedAsdfghj1816', 'firstname': 'updatedFirstname1501', 'lastname': 'updatedLastname8578', 'id': 333}
+2025-02-16T17:06:40.297340+0000 INFO DELETE Сreator with ID: 333
+2025-02-16T17:06:40.309214+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.320137+0000 INFO DELETE Сreator with ID: 334
+2025-02-16T17:06:40.332507+0000 INFO DELETE Сreator with ID: 334
+2025-02-16T17:06:40.340442+0000 INFO POST Сreator with body: {'login': 'creator1892', 'password': 'asdfghj9431', 'firstname': 'firstname8820', 'lastname': 'lastname8183'}
+2025-02-16T17:06:40.355706+0000 INFO DELETE Сreator with ID: 335
+2025-02-16T17:06:40.376112+0000 INFO GET Sticker
+2025-02-16T17:06:40.388416+0000 INFO POST Сreator with body: {'login': 'creator8143', 'password': 'asdfghj3392', 'firstname': 'firstname2949', 'lastname': 'lastname7345'}
+2025-02-16T17:06:40.439423+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.452133+0000 INFO DELETE Story with ID: 251
+2025-02-16T17:06:40.465292+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.478691+0000 INFO GET definite Story with id: 252
+2025-02-16T17:06:40.488203+0000 INFO DELETE Story with ID: 252
+2025-02-16T17:06:40.500250+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.512077+0000 INFO GET Sticker
+2025-02-16T17:06:40.520995+0000 INFO DELETE Story with ID: 253
+2025-02-16T17:06:40.534126+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.548894+0000 INFO PUT Story with body: {'creatorId': 336, 'title': 'updatedTitle4006', 'content': 'updatedContent6039', 'id': 254}
+2025-02-16T17:06:40.559701+0000 INFO DELETE Story with ID: 254
+2025-02-16T17:06:40.572082+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.583664+0000 INFO DELETE Story with ID: 255
+2025-02-16T17:06:40.599053+0000 INFO DELETE Story with ID: 255
+2025-02-16T17:06:40.606936+0000 INFO POST Story with body: {'creatorId': 336, 'title': 'title6047', 'content': 'content7998'}
+2025-02-16T17:06:40.625755+0000 INFO DELETE Story with ID: 256
+2025-02-16T17:06:40.637271+0000 INFO DELETE Сreator with ID: 336
+2025-02-16T17:06:40.651232+0000 INFO GET Message
+2025-02-16T17:06:40.694892+0000 INFO POST Сreator with body: {'login': 'creator3712', 'password': 'asdfghj8961', 'firstname': 'firstname7518', 'lastname': 'lastname3281'}
+2025-02-16T17:06:40.741625+0000 INFO POST Story with body: {'creatorId': 337, 'title': 'title6852', 'content': 'content6200'}
+2025-02-16T17:06:40.755455+0000 INFO POST Message with body: {'storyId': 257, 'content': 'content6200'}
+2025-02-16T17:06:40.768573+0000 INFO DELETE message with ID: 91
+2025-02-16T17:06:40.780834+0000 INFO POST Message with body: {'storyId': 257, 'content': 'content6200'}
+2025-02-16T17:06:40.793390+0000 INFO GET definite Message with id: 92
+2025-02-16T17:06:40.804744+0000 INFO DELETE message with ID: 92
+2025-02-16T17:06:40.815745+0000 INFO POST Message with body: {'storyId': 257, 'content': 'content6200'}
+2025-02-16T17:06:40.830594+0000 INFO GET Message
+2025-02-16T17:06:40.843107+0000 INFO DELETE message with ID: 93
+2025-02-16T17:06:40.855729+0000 INFO POST Message with body: {'storyId': 257, 'content': 'content6200'}
+2025-02-16T17:06:40.867387+0000 INFO PUT Message with body: {'storyId': 257, 'content': 'updatedcontent2201', 'id': 94}
+2025-02-16T17:06:40.881097+0000 INFO DELETE message with ID: 94
+2025-02-16T17:06:40.892986+0000 INFO POST Message with body: {'storyId': 257, 'content': 'content6200'}
+2025-02-16T17:06:40.904374+0000 INFO DELETE message with ID: 95
+2025-02-16T17:06:40.916622+0000 INFO DELETE message with ID: 95
+2025-02-16T17:06:40.925652+0000 INFO DELETE Story with ID: 257
+2025-02-16T17:06:40.939886+0000 INFO DELETE Сreator with ID: 337
+2025-02-16T17:06:40.951882+0000 INFO GET Sticker
+2025-02-16T17:06:40.960606+0000 INFO POST Сreator with body: {'login': 'creator7213', 'password': 'asdfghj6855', 'firstname': 'firstname2071', 'lastname': 'lastname9273'}
+2025-02-16T17:06:41.006905+0000 INFO POST Story with body: {'creatorId': 338, 'title': 'title6619', 'content': 'content9090'}
+2025-02-16T17:06:41.018780+0000 INFO POST Sticker with body: {'name': 'name3515'}
+2025-02-16T17:06:41.028472+0000 INFO DELETE Sticker with ID: 89
+2025-02-16T17:06:41.040146+0000 INFO POST Sticker with body: {'name': 'name3515'}
+2025-02-16T17:06:41.050367+0000 INFO GET definite Sticker with id: 90
+2025-02-16T17:06:41.061071+0000 INFO DELETE Sticker with ID: 90
+2025-02-16T17:06:41.072512+0000 INFO POST Sticker with body: {'name': 'name3515'}
+2025-02-16T17:06:41.082690+0000 INFO GET Sticker
+2025-02-16T17:06:41.092066+0000 INFO DELETE Sticker with ID: 91
+2025-02-16T17:06:41.102859+0000 INFO POST Sticker with body: {'name': 'name3515'}
+2025-02-16T17:06:41.111556+0000 INFO PUT Sticker with body: {'name': 'updatedname6123', 'id': 92}
+2025-02-16T17:06:41.122407+0000 INFO DELETE Sticker with ID: 92
+2025-02-16T17:06:41.135176+0000 INFO POST Sticker with body: {'name': 'name3515'}
+2025-02-16T17:06:41.145048+0000 INFO DELETE Sticker with ID: 93
+2025-02-16T17:06:41.163464+0000 INFO DELETE Sticker with ID: 93
+2025-02-16T17:06:41.198953+0000 INFO DELETE Story with ID: 258
+2025-02-16T17:06:41.214064+0000 INFO DELETE Сreator with ID: 338
