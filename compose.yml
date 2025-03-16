@@ -65,6 +65,14 @@ services:
       - db
 
 
+  cassandra:
+    image: cassandra:latest
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_CLUSTER_NAME=MyCassandraCluster
+
+
 volumes:
   pgdata:
 
