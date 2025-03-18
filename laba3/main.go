@@ -1,36 +1,38 @@
 package main
 
 import (
-	"fmt"
-	"log"
+	db "laba3/config"
+	routes "laba3/routes"
 
-	"github.com/gocql/gocql"
+	"github.com/gofiber/fiber/v2"
 )
 
 func main() {
-	// Создаем новый кластерный объект
-	cluster := gocql.NewCluster("127.0.0.1") // Замените на адрес вашего Cassandra
-	cluster.Port = 9042
-	cluster.Keyspace = "distcomp" // Замените на ваш keyspace
-
-	// Устанавливаем соединение
-	session, err := cluster.CreateSession()
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer session.Close()
+	app := fiber.New(
+		fiber.Config{
+			AppName: "Laba3",
+		})
+	db.Connect()
+	defer db.Session.Close()
+	routes.Handlers(app)
 
 	// Выполняем простой запрос
-	var country string
-	var storyId int64
-	var id int64
-	var content string
+	// var country string
+	// var storyId int64
+	// var id int64
+	// var content string
 
-	// Запрос данных из таблицы
-	iter := session.Query("SELECT country, storyId, id, content FROM tbl_message").Iter()
-	for iter.Scan(&country, &storyId, &id, &content) {
-		fmt.Printf("Country: %s, StoryId: %d, ID: %d, Content: %s\n", country, storyId, id, content)
-	}
+	// var Res models.User = models.User{}
 
-	// fmt.Println("Value:", value)
+	// // Запрос данных из таблицы
+	// iter := db.Session.Query("SELECT country, storyId, id FROM tbl_message").Iter()
+	// for iter.Scan(&Res.Country, &Res.StoryID, &Res.StoryID, &Res.ID) {
+	// 	fmt.Println(Res)
+	// }
+
+	// if err := iter.Close(); err != nil {
+	// 	fmt.Println(err)
+	// }
+
+	app.Listen(":24130")
 }
