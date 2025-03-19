@@ -33,7 +33,6 @@ func GetMessageByID(c *fiber.Ctx) error {
 
 func GetMessage(c *fiber.Ctx) error {
 	target_url := "http://172.17.0.1:24110" + c.OriginalURL()
-	// fmt.Printf("target_url: %v\n", target_url)
 
 	resp, err := http.Get(target_url)
 	if err != nil {
