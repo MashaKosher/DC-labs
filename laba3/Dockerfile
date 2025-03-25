@@ -1,20 +1,25 @@
-# Указываем базовый образ
-FROM golang:1.20
+# Указываем базовый образ для сборки
+FROM golang:1.24.1 AS builder
 
-# Устанавливаем рабочую директорию
+RUN go install github.com/air-verse/air@latest
+
+
+RUN go install github.com/swaggo/swag/cmd/swag@latest
+
+# Установка рабочей директории
 WORKDIR /app
 
-# Копируем go.mod и go.sum
+# Копирование go.mod и go.sum
 COPY go.mod go.sum ./
 
-# Загружаем зависимости
+# Установка зависимостей
 RUN go mod download
 
-# Копируем исходный код
+# Копирование остального кода
 COPY . .
 
-# Компилируем приложение
-RUN go build -o main .
+# Установка конфигурации air
+COPY .air.toml ./
 
-# Запускаем приложение
-CMD ["./main"]
+# Запуск air
+CMD ["air"]

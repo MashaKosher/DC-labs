@@ -76,6 +76,19 @@ services:
       - cassandra-data:/var/lib/cassandra
 
 
+  laba3:
+    build: ./laba3
+    container_name: laba3
+    ports:
+      - "24130:24130"
+    volumes:
+      - ./laba3:/app
+    depends_on:
+      - cassandra
+
+
+
+
 volumes:
   pgdata:
   cassandra-data:
