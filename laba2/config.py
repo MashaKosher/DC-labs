@@ -11,8 +11,11 @@ import os
 class DBsettings(BaseModel):
     # url: str = f"sqlite+aiosqlite:///{DB_PATH}"
     # url: str = "postgresql+asyncpg://postgres:postgres@db:5432/postgres"
+
+    # url: str = "postgresql+asyncpg://postgres:postgres@db:5432/distcomp"
+    # url: str = "postgresql+asyncpg://postgres:postgres@127.0.0.1:5432/distcomp"
     url: str = os.getenv("DATABASE_URL")
-    echo: bool = True
+    echo: bool = False
 
 
 class Settings(BaseSettings):

@@ -12,7 +12,7 @@ logger.add(
     sink="RV2Lab.log",
     mode="w",
     encoding="utf-8",
-    format="{time} {level} {sticker}",
+    format="{level} {sticker}",
 )
 
 

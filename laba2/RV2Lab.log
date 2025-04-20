@@ -1,45 +1,387 @@
-2025-03-25T20:46:29.458958+0000 INFO POST Сreator with body: {'login': 'creator9595', 'password': 'asdfghj3976', 'firstname': 'firstname270', 'lastname': 'lastname1966'}
-2025-03-25T20:46:29.491181+0000 INFO GET definite Creator with ID: 289
-2025-03-25T20:46:29.505248+0000 INFO GET Creator
-2025-03-25T20:46:29.521982+0000 INFO PUT Сreator with body: {'login': 'updatedCreator2742', 'password': 'updatedAsdfghj8922', 'firstname': 'updatedFirstname3919', 'lastname': 'updatedLastname3159', 'id': 289}
-2025-03-25T20:46:29.541686+0000 INFO GET Creator
-2025-03-25T20:46:29.553255+0000 INFO DELETE Сreator with ID: 289
-2025-03-25T20:46:29.591742+0000 INFO GET Sticker
-2025-03-25T20:46:29.603469+0000 INFO POST Сreator with body: {'login': 'creator2766', 'password': 'asdfghj2812', 'firstname': 'firstname4526', 'lastname': 'lastname4976'}
-2025-03-25T20:46:29.620469+0000 INFO POST Story with body: {'creatorId': 290, 'title': 'title7259', 'content': 'content3795'}
-2025-03-25T20:46:29.639436+0000 INFO GET definite Story with id: 237
-2025-03-25T20:46:29.653206+0000 INFO GET Sticker
-2025-03-25T20:46:29.666548+0000 INFO PUT Story with body: {'creatorId': 290, 'title': 'updatedTitle8114', 'content': 'updatedContent421', 'id': 237}
-2025-03-25T20:46:29.682968+0000 INFO GET definite Story with id: 237
-2025-03-25T20:46:29.694143+0000 INFO DELETE Story with ID: 237
-2025-03-25T20:46:29.716486+0000 INFO DELETE Сreator with ID: 290
-2025-03-25T20:46:29.763196+0000 INFO GET Message
-2025-03-25T20:46:29.777327+0000 INFO GET Message
-2025-03-25T20:46:29.788039+0000 INFO POST Сreator with body: {'login': 'creator2340', 'password': 'asdfghj9114', 'firstname': 'firstname5044', 'lastname': 'lastname262'}
-2025-03-25T20:46:29.800931+0000 INFO POST Story with body: {'creatorId': 291, 'title': 'title3654', 'content': 'content7543'}
-2025-03-25T20:46:29.819026+0000 INFO POST Message with body: {'storyId': 238, 'content': 'content7543'}
-2025-03-25T20:46:29.834707+0000 INFO GET definite Message with id: 135
-2025-03-25T20:46:29.849828+0000 INFO GET Message
-2025-03-25T20:46:29.861703+0000 INFO PUT Message with body: {'storyId': 238, 'content': 'updatedcontent6067', 'id': 135}
-2025-03-25T20:46:29.877599+0000 INFO GET definite Message with id: 135
-2025-03-25T20:46:29.891866+0000 INFO DELETE message with ID: 135
-2025-03-25T20:46:29.906878+0000 INFO POST Message with body: {'storyId': 238, 'content': 'content7543'}
-2025-03-25T20:46:30.174593+0000 INFO GET definite Message with id: 136
-2025-03-25T20:46:30.196500+0000 INFO GET Message
-2025-03-25T20:46:30.222699+0000 INFO PUT Message with body: {'storyId': 238, 'content': 'updatedcontent6067', 'id': 136}
-2025-03-25T20:46:30.506678+0000 INFO GET definite Message with id: 136
-2025-03-25T20:46:30.530678+0000 INFO DELETE message with ID: 136
-2025-03-25T20:46:30.562095+0000 INFO DELETE Story with ID: 238
-2025-03-25T20:46:30.606840+0000 INFO DELETE Сreator with ID: 291
-2025-03-25T20:46:30.693179+0000 INFO GET Sticker
-2025-03-25T20:46:30.707719+0000 INFO POST Сreator with body: {'login': 'creator6492', 'password': 'asdfghj5777', 'firstname': 'firstname1133', 'lastname': 'lastname7620'}
-2025-03-25T20:46:30.719788+0000 INFO POST Story with body: {'creatorId': 292, 'title': 'title1559', 'content': 'content2040'}
-2025-03-25T20:46:30.733801+0000 INFO POST Sticker with body: {'name': 'name3823'}
-2025-03-25T20:46:30.749627+0000 INFO GET definite Sticker with id: 96
-2025-03-25T20:46:30.759949+0000 INFO GET Sticker
-2025-03-25T20:46:30.770464+0000 INFO PUT Sticker with body: {'name': 'updatedname6506', 'id': 96}
-2025-03-25T20:46:30.783874+0000 INFO GET definite Sticker with id: 96
-2025-03-25T20:46:30.794373+0000 INFO DELETE Sticker with ID: 96
-2025-03-25T20:46:30.808549+0000 INFO DELETE Sticker with ID: 96
-2025-03-25T20:46:30.818879+0000 INFO DELETE Story with ID: 239
-2025-03-25T20:46:30.901475+0000 INFO DELETE Сreator with ID: 292
+INFO Успешное подключение к Kafka broker:29092
+INFO POST Сreator with body: {'login': 'creator619', 'password': 'asdfghj8678', 'firstname': 'firstname9385', 'lastname': 'lastname2296'}
+INFO GET definite Creator with ID: 700
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator2672', 'password': 'updatedAsdfghj1506', 'firstname': 'updatedFirstname2341', 'lastname': 'updatedLastname7411', 'id': 700}
+INFO GET Creator
+INFO DELETE Сreator with ID: 700
+INFO POST Сreator with body: {'login': 'creator619', 'password': 'asdfghj8678', 'firstname': 'firstname9385', 'lastname': 'lastname2296'}
+INFO POST Сreator with body: {'login': 'creator619', 'password': 'qwertyu2308', 'firstname': 'v2firstname4206', 'lastname': 'v2lastname7368'}
+INFO DELETE Сreator with ID: 701
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator9844', 'password': 'asdfghj2577', 'firstname': 'firstname6418', 'lastname': 'lastname4753'}
+INFO POST Story with body: {'creatorId': 702, 'title': 'title9217', 'content': 'content4789'}
+INFO GET definite Story with id: 512
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 702, 'title': 'updatedTitle2680', 'content': 'updatedContent7402', 'id': 512}
+INFO GET definite Story with id: 512
+INFO DELETE Story with ID: 512
+INFO DELETE Сreator with ID: 702
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator8799', 'password': 'asdfghj4779', 'firstname': 'firstname7743', 'lastname': 'lastname5104'}
+INFO POST Story with body: {'creatorId': 703, 'title': 'title8741', 'content': 'content5987'}
+INFO POST Message with body: {'storyId': 513, 'content': 'content5987'}
+INFO GET definite Message with id: 316
+INFO Получено из InTopic: 316
+INFO <models.messages.Message object at 0x7abad57f4050>
+INFO {"id": 316, "storyId": 513, "content": "content5987"}
+INFO Отправлено в OutTopic: {"id": 316, "storyId": 513, "content": "content5987"}
+INFO PUT Message with body: {'storyId': 513, 'content': 'updatedcontent821', 'id': 316}
+INFO GET definite Message with id: 316
+INFO Получено из InTopic: 316
+INFO <models.messages.Message object at 0x7abad57de2d0>
+INFO {"id": 316, "storyId": 513, "content": "updatedcontent821"}
+INFO Отправлено в OutTopic: {"id": 316, "storyId": 513, "content": "updatedcontent821"}
+INFO DELETE message with ID: 316
+INFO Получено из InTopic: 316
+INFO None
+INFO {"id": 0, "storyId": 0, "content": ""}
+INFO Отправлено в OutTopic: {"id": 0, "storyId": 0, "content": ""}
+INFO POST Message with body: {'storyId': 513, 'content': 'content5987'}
+INFO GET definite Message with id: 317
+INFO GET Message
+INFO PUT Message with body: {'storyId': 513, 'content': 'updatedcontent821', 'id': 317}
+INFO GET definite Message with id: 317
+INFO DELETE message with ID: 317
+INFO DELETE Story with ID: 513
+INFO DELETE Сreator with ID: 703
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator5395', 'password': 'asdfghj9944', 'firstname': 'firstname8148', 'lastname': 'lastname4924'}
+INFO POST Story with body: {'creatorId': 704, 'title': 'title9826', 'content': 'content8763'}
+INFO POST Sticker with body: {'name': 'name5459'}
+INFO GET definite Sticker with id: 187
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname4878', 'id': 187}
+INFO GET definite Sticker with id: 187
+INFO DELETE Sticker with ID: 187
+INFO DELETE Sticker with ID: 187
+INFO DELETE Story with ID: 514
+INFO DELETE Сreator with ID: 704
+INFO POST Сreator with body: {'login': 'creator4563', 'password': 'asdfghj9804', 'firstname': 'firstname7420', 'lastname': 'lastname5230'}
+INFO GET definite Creator with ID: 705
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator7322', 'password': 'updatedAsdfghj8015', 'firstname': 'updatedFirstname6926', 'lastname': 'updatedLastname5415', 'id': 705}
+INFO GET Creator
+INFO DELETE Сreator with ID: 705
+INFO POST Сreator with body: {'login': 'creator4563', 'password': 'asdfghj9804', 'firstname': 'firstname7420', 'lastname': 'lastname5230'}
+INFO POST Сreator with body: {'login': 'creator4563', 'password': 'qwertyu1138', 'firstname': 'v2firstname1783', 'lastname': 'v2lastname7097'}
+INFO DELETE Сreator with ID: 706
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator8208', 'password': 'asdfghj2635', 'firstname': 'firstname5918', 'lastname': 'lastname9926'}
+INFO POST Story with body: {'creatorId': 707, 'title': 'title300', 'content': 'content5000'}
+INFO GET definite Story with id: 515
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 707, 'title': 'updatedTitle4795', 'content': 'updatedContent1002', 'id': 515}
+INFO GET definite Story with id: 515
+INFO DELETE Story with ID: 515
+INFO DELETE Сreator with ID: 707
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator4532', 'password': 'asdfghj7675', 'firstname': 'firstname8617', 'lastname': 'lastname7444'}
+INFO POST Story with body: {'creatorId': 708, 'title': 'title1163', 'content': 'content5937'}
+INFO POST Message with body: {'storyId': 516, 'content': 'content5937'}
+INFO GET definite Message with id: 318
+INFO Получено из InTopic: 318
+INFO <models.messages.Message object at 0x7abad58075d0>
+INFO {"id": 318, "storyId": 516, "content": "content5937"}
+INFO Отправлено в OutTopic: {"id": 318, "storyId": 516, "content": "content5937"}
+INFO PUT Message with body: {'storyId': 516, 'content': 'updatedcontent5119', 'id': 318}
+INFO GET definite Message with id: 318
+INFO Получено из InTopic: 318
+INFO <models.messages.Message object at 0x7abad5875d10>
+INFO {"id": 318, "storyId": 516, "content": "updatedcontent5119"}
+INFO Отправлено в OutTopic: {"id": 318, "storyId": 516, "content": "updatedcontent5119"}
+INFO DELETE message with ID: 318
+INFO Получено из InTopic: 318
+INFO None
+INFO {"id": 0, "storyId": 0, "content": ""}
+INFO Отправлено в OutTopic: {"id": 0, "storyId": 0, "content": ""}
+INFO POST Message with body: {'storyId': 516, 'content': 'content5937'}
+INFO GET definite Message with id: 319
+INFO GET Message
+INFO PUT Message with body: {'storyId': 516, 'content': 'updatedcontent5119', 'id': 319}
+INFO GET definite Message with id: 319
+INFO DELETE message with ID: 319
+INFO DELETE Story with ID: 516
+INFO DELETE Сreator with ID: 708
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator6438', 'password': 'asdfghj6309', 'firstname': 'firstname4934', 'lastname': 'lastname6774'}
+INFO POST Story with body: {'creatorId': 709, 'title': 'title8744', 'content': 'content9780'}
+INFO POST Sticker with body: {'name': 'name5027'}
+INFO GET definite Sticker with id: 188
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname1203', 'id': 188}
+INFO GET definite Sticker with id: 188
+INFO DELETE Sticker with ID: 188
+INFO DELETE Sticker with ID: 188
+INFO DELETE Story with ID: 517
+INFO DELETE Сreator with ID: 709
+INFO POST Сreator with body: {'login': 'creator8629', 'password': 'asdfghj8874', 'firstname': 'firstname9679', 'lastname': 'lastname2482'}
+INFO GET definite Creator with ID: 710
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator500', 'password': 'updatedAsdfghj3889', 'firstname': 'updatedFirstname3782', 'lastname': 'updatedLastname4310', 'id': 710}
+INFO GET Creator
+INFO DELETE Сreator with ID: 710
+INFO POST Сreator with body: {'login': 'creator8629', 'password': 'asdfghj8874', 'firstname': 'firstname9679', 'lastname': 'lastname2482'}
+INFO POST Сreator with body: {'login': 'creator8629', 'password': 'qwertyu9202', 'firstname': 'v2firstname5112', 'lastname': 'v2lastname305'}
+INFO DELETE Сreator with ID: 711
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator9124', 'password': 'asdfghj872', 'firstname': 'firstname5475', 'lastname': 'lastname8965'}
+INFO POST Story with body: {'creatorId': 712, 'title': 'title2653', 'content': 'content5477'}
+INFO GET definite Story with id: 518
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 712, 'title': 'updatedTitle6338', 'content': 'updatedContent7770', 'id': 518}
+INFO GET definite Story with id: 518
+INFO DELETE Story with ID: 518
+INFO DELETE Сreator with ID: 712
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator8798', 'password': 'asdfghj779', 'firstname': 'firstname8740', 'lastname': 'lastname426'}
+INFO POST Story with body: {'creatorId': 713, 'title': 'title7998', 'content': 'content2586'}
+INFO POST Message with body: {'storyId': 519, 'content': 'content2586'}
+INFO GET definite Message with id: 320
+INFO Получено из InTopic: 320
+INFO <models.messages.Message object at 0x7abad56d0910>
+INFO {"id": 320, "storyId": 519, "content": "content2586"}
+INFO Отправлено в OutTopic: {"id": 320, "storyId": 519, "content": "content2586"}
+INFO PUT Message with body: {'storyId': 519, 'content': 'updatedcontent2685', 'id': 320}
+INFO GET definite Message with id: 320
+INFO Получено из InTopic: 320
+INFO <models.messages.Message object at 0x7abad58c0050>
+INFO {"id": 320, "storyId": 519, "content": "updatedcontent2685"}
+INFO Отправлено в OutTopic: {"id": 320, "storyId": 519, "content": "updatedcontent2685"}
+INFO DELETE message with ID: 320
+INFO Получено из InTopic: 320
+INFO None
+INFO {"id": 0, "storyId": 0, "content": ""}
+INFO Отправлено в OutTopic: {"id": 0, "storyId": 0, "content": ""}
+INFO POST Message with body: {'storyId': 519, 'content': 'content2586'}
+INFO GET definite Message with id: 321
+INFO GET Message
+INFO PUT Message with body: {'storyId': 519, 'content': 'updatedcontent2685', 'id': 321}
+INFO GET definite Message with id: 321
+INFO DELETE message with ID: 321
+INFO DELETE Story with ID: 519
+INFO DELETE Сreator with ID: 713
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator1087', 'password': 'asdfghj8179', 'firstname': 'firstname7345', 'lastname': 'lastname9005'}
+INFO POST Story with body: {'creatorId': 714, 'title': 'title1078', 'content': 'content4515'}
+INFO POST Sticker with body: {'name': 'name7323'}
+INFO GET definite Sticker with id: 189
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname5412', 'id': 189}
+INFO GET definite Sticker with id: 189
+INFO DELETE Sticker with ID: 189
+INFO DELETE Sticker with ID: 189
+INFO DELETE Story with ID: 520
+INFO DELETE Сreator with ID: 714
+INFO POST Сreator with body: {'login': 'creator398', 'password': 'asdfghj2326', 'firstname': 'firstname8698', 'lastname': 'lastname6471'}
+INFO GET definite Creator with ID: 715
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator7401', 'password': 'updatedAsdfghj8677', 'firstname': 'updatedFirstname4754', 'lastname': 'updatedLastname776', 'id': 715}
+INFO GET Creator
+INFO DELETE Сreator with ID: 715
+INFO POST Сreator with body: {'login': 'creator398', 'password': 'asdfghj2326', 'firstname': 'firstname8698', 'lastname': 'lastname6471'}
+INFO POST Сreator with body: {'login': 'creator398', 'password': 'qwertyu3444', 'firstname': 'v2firstname9896', 'lastname': 'v2lastname3197'}
+INFO DELETE Сreator with ID: 716
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator4788', 'password': 'asdfghj6333', 'firstname': 'firstname8517', 'lastname': 'lastname2560'}
+INFO POST Story with body: {'creatorId': 717, 'title': 'title9335', 'content': 'content4005'}
+INFO GET definite Story with id: 521
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 717, 'title': 'updatedTitle9503', 'content': 'updatedContent5775', 'id': 521}
+INFO GET definite Story with id: 521
+INFO DELETE Story with ID: 521
+INFO DELETE Сreator with ID: 717
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator6592', 'password': 'asdfghj6482', 'firstname': 'firstname9896', 'lastname': 'lastname3025'}
+INFO POST Story with body: {'creatorId': 718, 'title': 'title2402', 'content': 'content7427'}
+INFO POST Message with body: {'storyId': 522, 'content': 'content7427'}
+INFO GET definite Message with id: 322
+INFO Получено из InTopic: 322
+INFO <models.messages.Message object at 0x7abad582bf50>
+INFO {"id": 322, "storyId": 522, "content": "content7427"}
+INFO Отправлено в OutTopic: {"id": 322, "storyId": 522, "content": "content7427"}
+INFO PUT Message with body: {'storyId': 522, 'content': 'updatedcontent3025', 'id': 322}
+INFO GET definite Message with id: 322
+INFO Получено из InTopic: 322
+INFO <models.messages.Message object at 0x7abad57c1b90>
+INFO {"id": 322, "storyId": 522, "content": "updatedcontent3025"}
+INFO Отправлено в OutTopic: {"id": 322, "storyId": 522, "content": "updatedcontent3025"}
+INFO DELETE message with ID: 322
+INFO Получено из InTopic: 322
+INFO None
+INFO {"id": 0, "storyId": 0, "content": ""}
+INFO Отправлено в OutTopic: {"id": 0, "storyId": 0, "content": ""}
+INFO POST Message with body: {'storyId': 522, 'content': 'content7427'}
+INFO GET definite Message with id: 323
+INFO GET Message
+INFO PUT Message with body: {'storyId': 522, 'content': 'updatedcontent3025', 'id': 323}
+INFO GET definite Message with id: 323
+INFO DELETE message with ID: 323
+INFO DELETE Story with ID: 522
+INFO DELETE Сreator with ID: 718
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator2552', 'password': 'asdfghj891', 'firstname': 'firstname9346', 'lastname': 'lastname8657'}
+INFO POST Story with body: {'creatorId': 719, 'title': 'title3863', 'content': 'content7971'}
+INFO POST Sticker with body: {'name': 'name8404'}
+INFO GET definite Sticker with id: 190
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname5167', 'id': 190}
+INFO GET definite Sticker with id: 190
+INFO DELETE Sticker with ID: 190
+INFO DELETE Sticker with ID: 190
+INFO DELETE Story with ID: 523
+INFO DELETE Сreator with ID: 719
+INFO POST Сreator with body: {'login': 'creator5976', 'password': 'asdfghj6914', 'firstname': 'firstname5489', 'lastname': 'lastname6869'}
+INFO GET definite Creator with ID: 720
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator609', 'password': 'updatedAsdfghj9816', 'firstname': 'updatedFirstname9343', 'lastname': 'updatedLastname626', 'id': 720}
+INFO GET Creator
+INFO DELETE Сreator with ID: 720
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator9462', 'password': 'asdfghj4858', 'firstname': 'firstname3947', 'lastname': 'lastname9880'}
+INFO POST Story with body: {'creatorId': 721, 'title': 'title6892', 'content': 'content8840'}
+INFO GET definite Story with id: 524
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 721, 'title': 'updatedTitle2710', 'content': 'updatedContent6326', 'id': 524}
+INFO GET definite Story with id: 524
+INFO DELETE Story with ID: 524
+INFO DELETE Сreator with ID: 721
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator8292', 'password': 'asdfghj5939', 'firstname': 'firstname9273', 'lastname': 'lastname9974'}
+INFO POST Story with body: {'creatorId': 722, 'title': 'title3214', 'content': 'content7562'}
+INFO POST Message with body: {'storyId': 525, 'content': 'forRedisContent4433'}
+INFO GET definite Message with id: 324
+INFO Получено из InTopic: 324
+INFO <models.messages.Message object at 0x7abad567c050>
+INFO {"id": 324, "storyId": 525, "content": "forRedisContent4433"}
+INFO Отправлено в OutTopic: {"id": 324, "storyId": 525, "content": "forRedisContent4433"}
+INFO GET definite Message with id: 324
+INFO Получено из InTopic: 324
+INFO <models.messages.Message object at 0x7abad567e9d0>
+INFO {"id": 324, "storyId": 525, "content": "forRedisContent4433"}
+INFO Отправлено в OutTopic: {"id": 324, "storyId": 525, "content": "forRedisContent4433"}
+INFO DELETE message with ID: 324
+INFO POST Message with body: {'storyId': 525, 'content': 'content7562'}
+INFO GET definite Message with id: 325
+INFO GET Message
+INFO PUT Message with body: {'storyId': 525, 'content': 'updatedcontent1491', 'id': 325}
+INFO GET definite Message with id: 325
+INFO DELETE message with ID: 325
+INFO DELETE Story with ID: 525
+INFO DELETE Сreator with ID: 722
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator9552', 'password': 'asdfghj6616', 'firstname': 'firstname2887', 'lastname': 'lastname8207'}
+INFO POST Story with body: {'creatorId': 723, 'title': 'title4335', 'content': 'content2288'}
+INFO POST Sticker with body: {'name': 'name4282'}
+INFO GET definite Sticker with id: 191
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname5673', 'id': 191}
+INFO GET definite Sticker with id: 191
+INFO DELETE Sticker with ID: 191
+INFO DELETE Sticker with ID: 191
+INFO DELETE Story with ID: 526
+INFO DELETE Сreator with ID: 723
+INFO POST Сreator with body: {'login': 'creator4971', 'password': 'asdfghj6496', 'firstname': 'firstname9932', 'lastname': 'lastname7854'}
+INFO GET definite Creator with ID: 724
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator3061', 'password': 'updatedAsdfghj9398', 'firstname': 'updatedFirstname634', 'lastname': 'updatedLastname1777', 'id': 724}
+INFO GET Creator
+INFO DELETE Сreator with ID: 724
+INFO POST Сreator with body: {'login': 'creator4971', 'password': 'asdfghj6496', 'firstname': 'firstname9932', 'lastname': 'lastname7854'}
+INFO POST Сreator with body: {'login': 'creator4971', 'password': 'qwertyu2461', 'firstname': 'v2firstname9889', 'lastname': 'v2lastname7425'}
+INFO DELETE Сreator with ID: 725
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator3565', 'password': 'asdfghj4717', 'firstname': 'firstname4348', 'lastname': 'lastname4751'}
+INFO POST Story with body: {'creatorId': 726, 'title': 'title9768', 'content': 'content2074'}
+INFO GET definite Story with id: 527
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 726, 'title': 'updatedTitle561', 'content': 'updatedContent1988', 'id': 527}
+INFO GET definite Story with id: 527
+INFO DELETE Story with ID: 527
+INFO DELETE Сreator with ID: 726
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator4572', 'password': 'asdfghj4913', 'firstname': 'firstname8271', 'lastname': 'lastname4272'}
+INFO POST Story with body: {'creatorId': 727, 'title': 'title2584', 'content': 'content9142'}
+INFO POST Message with body: {'storyId': 528, 'content': 'content9142'}
+INFO GET definite Message with id: 326
+INFO Получено из InTopic: 326
+INFO <models.messages.Message object at 0x7abad567c5d0>
+INFO {"id": 326, "storyId": 528, "content": "content9142"}
+INFO Отправлено в OutTopic: {"id": 326, "storyId": 528, "content": "content9142"}
+INFO PUT Message with body: {'storyId': 528, 'content': 'updatedcontent538', 'id': 326}
+INFO GET definite Message with id: 326
+INFO Получено из InTopic: 326
+INFO <models.messages.Message object at 0x7abad56cb010>
+INFO {"id": 326, "storyId": 528, "content": "updatedcontent538"}
+INFO Отправлено в OutTopic: {"id": 326, "storyId": 528, "content": "updatedcontent538"}
+INFO DELETE message with ID: 326
+INFO Получено из InTopic: 326
+INFO None
+INFO {"id": 0, "storyId": 0, "content": ""}
+INFO Отправлено в OutTopic: {"id": 0, "storyId": 0, "content": ""}
+INFO POST Message with body: {'storyId': 528, 'content': 'content9142'}
+INFO GET definite Message with id: 327
+INFO GET Message
+INFO PUT Message with body: {'storyId': 528, 'content': 'updatedcontent538', 'id': 327}
+INFO GET definite Message with id: 327
+INFO DELETE message with ID: 327
+INFO DELETE Story with ID: 528
+INFO DELETE Сreator with ID: 727
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator4872', 'password': 'asdfghj7484', 'firstname': 'firstname3794', 'lastname': 'lastname8883'}
+INFO POST Story with body: {'creatorId': 728, 'title': 'title5771', 'content': 'content1235'}
+INFO POST Sticker with body: {'name': 'name1858'}
+INFO GET definite Sticker with id: 192
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname5409', 'id': 192}
+INFO GET definite Sticker with id: 192
+INFO DELETE Sticker with ID: 192
+INFO DELETE Sticker with ID: 192
+INFO DELETE Story with ID: 529
+INFO DELETE Сreator with ID: 728
+INFO POST Сreator with body: {'login': 'creator6986', 'password': 'asdfghj8414', 'firstname': 'firstname7216', 'lastname': 'lastname9345'}
+INFO GET definite Creator with ID: 729
+INFO GET Creator
+INFO PUT Сreator with body: {'login': 'updatedCreator2585', 'password': 'updatedAsdfghj5058', 'firstname': 'updatedFirstname1090', 'lastname': 'updatedLastname3429', 'id': 729}
+INFO GET Creator
+INFO DELETE Сreator with ID: 729
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator9077', 'password': 'asdfghj9624', 'firstname': 'firstname6243', 'lastname': 'lastname9509'}
+INFO POST Story with body: {'creatorId': 730, 'title': 'title8686', 'content': 'content8360'}
+INFO GET definite Story with id: 530
+INFO GET Sticker
+INFO PUT Story with body: {'creatorId': 730, 'title': 'updatedTitle5609', 'content': 'updatedContent8703', 'id': 530}
+INFO GET definite Story with id: 530
+INFO DELETE Story with ID: 530
+INFO DELETE Сreator with ID: 730
+INFO GET Message
+INFO POST Сreator with body: {'login': 'creator8453', 'password': 'asdfghj1805', 'firstname': 'firstname4251', 'lastname': 'lastname7864'}
+INFO POST Story with body: {'creatorId': 731, 'title': 'title5266', 'content': 'content1684'}
+INFO POST Message with body: {'storyId': 531, 'content': 'forRedisContent7068'}
+INFO GET definite Message with id: 328
+INFO Получено из InTopic: 328
+INFO <models.messages.Message object at 0x7abad553c8d0>
+INFO {"id": 328, "storyId": 531, "content": "forRedisContent7068"}
+INFO Отправлено в OutTopic: {"id": 328, "storyId": 531, "content": "forRedisContent7068"}
+INFO GET definite Message with id: 328
+INFO DELETE message with ID: 328
+INFO POST Message with body: {'storyId': 531, 'content': 'content1684'}
+INFO GET definite Message with id: 329
+INFO GET Message
+INFO PUT Message with body: {'storyId': 531, 'content': 'updatedcontent3893', 'id': 329}
+INFO GET definite Message with id: 329
+INFO DELETE message with ID: 329
+INFO DELETE Story with ID: 531
+INFO DELETE Сreator with ID: 731
+INFO GET Sticker
+INFO POST Сreator with body: {'login': 'creator2607', 'password': 'asdfghj9951', 'firstname': 'firstname4175', 'lastname': 'lastname7683'}
+INFO POST Story with body: {'creatorId': 732, 'title': 'title2631', 'content': 'content8930'}
+INFO POST Sticker with body: {'name': 'name5561'}
+INFO GET definite Sticker with id: 193
+INFO GET Sticker
+INFO PUT Sticker with body: {'name': 'updatedname3228', 'id': 193}
+INFO GET definite Sticker with id: 193
+INFO DELETE Sticker with ID: 193
+INFO DELETE Sticker with ID: 193
+INFO DELETE Story with ID: 532
+INFO DELETE Сreator with ID: 732
